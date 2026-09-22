@@ -1,0 +1,24 @@
+### Beckmann Bifurcation Data
+### “Dynamic Path Bifurcation in the Beckmann Reaction: Support from Kinetic Analyses”, Y. Yamamoto et al., J. Org. Chem. 2011, 76, 4652–4660. https://doi.org/10.1021/jo200728t
+###
+###
+### data from Table 2. Product Distributions for the Reactions of 7-X 9a-X in Aqueous CH3CN at 25 °C 
+###
+"X"        "7-X-R", "7-X-F", "7-X-F%", "8-X-R", "8-X-F", "8-X-F%", "9a-X-R", "9a-X-F", "9a-X-F%"
+"p-OCH3",  77.6,    27.7,    26.3,      4.9,    90.9,     94.9,     0.0,     100.0,    100.0
+"3,4-CH3", 86.6,     9.0,     9.4,     40.3,    57.8,     58.9,        ,          ,        
+"p-CH3",   90.4,     7.4,     7.6,     46.5,    50.2,     51.9,     0.0,     100.0,    100.0
+"m-CH3",   100.0,    0.0,     0.0,     74.5,    24.2,     24.4,        ,          ,         
+"H",       100.0,    0.0,     0.0,     77.3,    20.9,     21.3,     5.6,      95.7,     94.5
+"p-Cl",    100.0,    0.0,     0.0,     76.7,    19.7,     20.4,        ,          ,         
+"m-Cl",    100.0,    0.0,     0.0,     95.3,     5.9,      5.8,    41.8,      61.1,     59.4
+"p-CF3",   100.0,    0.0,     0.0,     94.7,     1.5,      1.6,        ,          ,         
+"p-CN",    100.0,    0.0,     0.0,    100.0,     0.0,      0.0,        ,          ,         
+"p-NO2",   100.0,    0.0,     0.0,    100.0,     0.0,      0.0,    76.6,      21.8,     22.2
+#
+# 7-X data in 80% (v/v) CH3CN. 
+# 8-X and 9a-X data in 90% (v/v) CH3CN
+# R is Yield of rearrangement product (%). 
+# F Yield of fragmentation product (%).
+# F% Relative yield of fragmentation product (F/(R þ F)). 
+# In cases of 100%, a single product was obtained.

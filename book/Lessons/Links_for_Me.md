@@ -1,0 +1,36 @@
+# Links for Me
+
+## ACS Symposium Series
+
+I once took a dive through the list of ACS symposium series. Here are some that caught my interest.
+
+- [Building Your Best Chemistry Career Volume 1: Academic Perspectives](https://pubs.acs.org/isbn/9780841237988)
+- [Building Your Best Chemistry Career Volume 2: Corporate Perspectives](https://pubs.acs.org/isbn/9780841298705)
+- [Building Your Best Chemistry Career Volume 3: Broader Perspectives](https://pubs.acs.org/isbn/9780841298682)
+- [Integrating Professional Skills into Undergraduate Chemistry Curricula](https://pubs.acs.org/isbn/9780841298668)
+- [Free Energy Methods in Drug Discovery: Current State and Future Directions](https://pubs.acs.org/isbn/9780841298064)
+- [Complete Accounts of Integrated Drug Discovery and Development: Recent Examples from the Pharmaceutical Industry Volume 3](https://pubs.acs.org/isbn/9780841298644)
+- [Complete Accounts of Integrated Drug Discovery and Development: Recent Examples from the Pharmaceutical Industry Volume 2](https://pubs.acs.org/isbn/9780841234321)
+- [Complete Accounts of Integrated Drug Discovery and Development: Recent Examples from the Pharmaceutical Industry Volume 1](https://pubs.acs.org/isbn/9780841233980)
+- [Advances in Online Chemistry Education](https://pubs.acs.org/isbn/9780841298231)
+- [Teaching Programming across the Chemistry Curriculum](https://pubs.acs.org/isbn/9780841298194)
+- [Contextualizing Chemistry in Art and Archaeology: Inspiration for Instructors](https://pubs.acs.org/isbn/9780841298330)
+- [Engaging Students in Organic Chemistry](https://pubs.acs.org/isbn/9780841298446)
+- [NMR Spectroscopy in the Undergraduate Curriculum, Volume 4: In-Person and Distance Learning Approaches](https://pubs.acs.org/isbn/9780841298507)
+- [Mechanistic Enzymology: Bridging Structure and Function](https://pubs.acs.org/isbn/9780841298842)
+- [Chemistry Student Success: A Field-Tested, Evidence-Based Guide](https://pubs.acs.org/isbn/9780841236844)
+- [Chemistry Education for a Sustainable Society Volume 1: High School, Outreach, & Global Perspectives](https://pubs.acs.org/isbn/9780841237551)
+- [Chemistry Education for a Sustainable Society Volume 2: Innovations in Undergraduate Curricula](https://pubs.acs.org/isbn/9780841237575)
+- [From General to Organic Chemistry: Courses and Curricula to Enhance Student Retention](https://pubs.acs.org/isbn/9780841237483)
+- [Active Learning in General Chemistry: Specific Interventions](https://pubs.acs.org/isbn/9780841237520)
+- [Biochemistry Education: From Theory to Practice](https://pubs.acs.org/isbn/9780841236332)
+- [Active Learning in Organic Chemistry: Implementation and Analysis](https://pubs.acs.org/isbn/9780841236295)
+- [Communication in Chemistry](https://pubs.acs.org/isbn/9780841235106)
+- [Videos in Chemistry Education: Applications of Interactive Tools](https://pubs.acs.org/isbn/9780841234925)
+- [Active Learning in General Chemistry: Whole-Class Solutions](https://pubs.acs.org/isbn/9780841236660)
+- [It’s Just Math: Research on Students’ Understanding of Chemistry and Mathematics](https://pubs.acs.org/isbn/9780841234352)
+- [Chemistry’s Role in Food Production and Sustainability: Past and Present](https://pubs.acs.org/isbn/9780841234284)
+- [Using Computational Methods To Teach Chemical Principles](https://pubs.acs.org/isbn/9780841234208)
+- [The Posthumous Nobel Prize in Chemistry. Volume 2. Ladies in Waiting for the Nobel Prize](https://pubs.acs.org/isbn/9780841233911)
+- [Citizens First! Democracy, Social Responsibility and Chemistry](https://pubs.acs.org/isbn/9780841233577)
+- [Best Practices for Chemistry REU Programs](https://pubs.acs.org/isbn/9780841233539)

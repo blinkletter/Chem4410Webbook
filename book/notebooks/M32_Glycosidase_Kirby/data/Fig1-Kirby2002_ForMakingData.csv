@@ -1,0 +1,32 @@
+# Data from figure 1 of...
+# ``Concerted general acid and nucleophilic catalysis of acetalhydrolysis. 
+# A simple model for the lysozyme mechanism''. 
+# K.E.S. Deana, A.J. Kirby, 
+# J. Chem. Soc., Perkin Trans. 2, 2002, 428-432. 
+# https://doi.org/10.1039/B110948K
+# 
+# This data set used to create absorbance kinetic runs for fake experimental data
+#
+# rates reported  in units of log(k/ s^-1)
+# log(k) values with two decimals of precision have been interpolated
+#
+"pH",        "k_1",         "k_2"
+0.00,        -2.95,         -3.19
+0.28,        -3.29,         -3.54
+0.55,        -3.637,        -3.884
+1.00,        -3.872,        -4.211
+1.25,        -4.158,        -4.476
+1.50,        -4.166,        -4.796
+1.90,        -4.168,        -5.094
+2.25,        -4.073,        -5.27
+2.60,        -3.891,        -5.333
+3.40,        -3.475,        -5.414
+3.70,        -3.254,        -5.439
+4.10,        -3.103,        -5.462
+4.40,        -3.082,        -5.392
+4.75,        -3.176,        -5.220
+5.10,        -3.406,        -5.224
+5.60,        -3.758,        -4.945
+6.00,        -4.073,        -4.548
+6.50,        -4.610,        -4.136
+6.90,        -5.020,        -3.765

@@ -1,0 +1,24 @@
+### BECKMANN REARRANGEMENT DATA
+### Rather than code to resample and clean data I just editted the text file. It was faster.
+###
+### from "Kinetics and mechanism of the Beckmann rearrangement of acetophenone oximes in sulphuric acid." Gregory, B. J., Moodie, R. B., & Schofield, K., Journal of the Chemical Society B: Physical Organic, 1970, 338-346. https://doi.org/10.1039/j29700000338 
+### Collecxted data from tables 2. 
+### OCH3 data rejected because it was at a different temperature and lower acidity 
+###
+#Name,                       Substituent,        k /10^-4 s^-1
+"Name",  "Substituent",   "%H2SO4",  "TempC",   "kobs"
+Hydrogen,    H,       98.2,    60.0 ,   1.80
+p-Bromo,     p-Br,    98.2,    60.0,    1.08
+p-Chloro,    p-Cl,    98.2,    60.0,    1.12
+p-Fluoro,    p-F,     98.2,    60.0,    1.26
+p-Iodo,      p-I,     98.2,    60.0,    1.24
+p-Methyl,    p-CH3,   98.2,    60.0,    3.20
+p-Nitro,     p-NO2,   98.2,    60.0,    0.059
+o-Fluoro,    o-F,     98.2,    60.0,    0.62
+o-Chloro,    o-Cl,    98.2,    60.0,   12.2
+o-Bromo,     o-Br,    98.2,    60.0,   17.3
+o-Iodo,      o-I,     98.2,    60.0,   41 
+o-Methyl,    o-CH3,    98.2,    60.0,  162 
+o-Nitro,     o-NO2,   98.2,    60.0,    0.23 
+#o-Methoxy,   o-OCH3,  98.2,    60.0,    0.5  # 79.8% H2SO4 80 degC
+#p-Methoxy,   p-OCH3,  98.2,    60.0,    1.0  # very approx 79.8% H2SO4 80 degC

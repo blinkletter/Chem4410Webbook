@@ -1,0 +1,24 @@
+### Beckmann Bifurcation Data
+### “Dynamic Path Bifurcation in the Beckmann Reaction: Support from Kinetic Analyses”, Y. Yamamoto et al., J. Org. Chem. 2011, 76, 4652–4660. https://doi.org/10.1021/jo200728t
+###
+###
+### data from Table 1. Pseudo First-Order Rate Constants for the Reactions of 7-X to 9a-X in Aqueous CH3CN at 25 °C 
+### X                   k/s-1
+### -- ------------------------------------
+"X",       "7-X",         "8-X",       "9a-X"
+"p-OCH3",  9.79e-3,     4.27e-2,     1.48e-2
+"3,4-CH3", 3.24e-3,     1.80e-2,
+"p-CH3",   2.41e-3,     1.14e-2,     4.09e-3
+"m-CH3",   1.04e-3,     5.01e-3,
+"H",       8.15e-4,     4.07e-3,     1.46e-3
+"p-Cl",    2.82e-4,     1.54e-3,
+"m-Cl",    1.01e-4,     5.52e-4,     2.22e-4
+"p-CF3",   4.52e-5,     2.46e-4,
+"p-CN",    2.63e-5,     1.35e-4,
+"p-NO2",   1.33e-5,     7.63e-5,     3.50e-5
+#
+# Notes: See figure legend in paper for Table 1.
+# 7-X data in 80% (v/v) CH3CN. 
+# 8-X and 9a-X data in 90% (v/v) CH3CN
+# 9a-X data is for Rate constants for p-methoxybenzensulfonates of 6. 7-X and 8-X are for 2-naphthalenesulfonates of 6
+# The p-OMe data point is the 8-X series is calculated from the rate constant for 8a-p-MeO and the relative reactivity of the two leaving groups. See text in the paper for explanation.

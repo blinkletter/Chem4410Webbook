@@ -1,0 +1,28 @@
+### Beckmann Bifurcation Data
+### “Dynamic Path Bifurcation in the Beckmann Reaction: Support from Kinetic Analyses”, Y. Yamamoto et al., J. Org. Chem. 2011, 76, 4652–4660. https://doi.org/10.1021/jo200728t
+###
+###
+### data from Table 3. Product Distributions for the Reactions of Selected Substrates with Added NMe4+ OH- 
+### In 90% (v/v) CH3CN at 25 °C with the reactant concentration of 2.4 mmol/L. b Molar ratio of NMe4+ OH- added relative to the reactant.
+###
+"substrate", "ratio NMe4OH",  "R",  "F",   "F%"
+"8-H",       0.00,            81.7, 19.3,  19.1
+"8-H",       1.30,            82.2, 19.9,  19.5
+"8-H",       2.60,            81.0, 19.8,  19.6
+"8-p-Me",    0.00,            50.2, 46.5,  48.1
+"8-p-Me",    1.10,            54.4, 42.9,  44.1
+"8-p-Me",    2.76,            55.4, 44.8,  44.7
+"9a-m-Cl",   0.00,            40.1, 59.5,  59.8
+"9a-m-Cl",   0.29,            45.6, 58.7,  56.3
+"9a-m-Cl",   0.51,            48.8, 54.1,  52.6
+"9a-m-Cl",   1.20,            53.8, 45.9,  46.0
+"9a-m-Cl",   2.00,            56.8, 45.2,  44.4
+"9a-m-Cl",   4.00,            53.9, 43.8,  44.8
+"9a-p-Me",   0.00,             0.0, 99.4, 100.0
+"9a-p-Me",   2.00,            20.5, 81.2,  80.7
+"9a-p-Me",   4.00,            20.5, 80.4,  80.9
+#
+# R is Yield of rearrangement product (%). 
+# F Yield of fragmentation product (%).
+# F% Relative yield of fragmentation product (F/(R + F)). 
+# In cases of 100%, a single product was obtained.

@@ -1,0 +1,77 @@
+### BECKMANN REARRANGEMENT DATA
+### Example 2 - Not Plotted
+###
+### from "Kinetics and mechanism of the Beckmann rearrangement of acetophenone oximes in sulphuric acid." Gregory, B. J., Moodie, R. B., & Schofield, K., Journal of the Chemical Society B: Physical Organic, 1970, 338-346. https://doi.org/10.1039/j29700000338 
+### Collecxted data from tables 1 and 2 
+###
+#Name,                       Substituent,        k /10^-4 s^-1
+"Name",  "Substituent",   "%H2SO4",  "TempC",   "kobs"
+Hydrogen,    H,       98.2,    60.0 ,   1.80
+Hydrogen,    H,       98.2,    70.0,    6.0
+Hydrogen,    H,       98.2,    80.0,   17.0
+Hydrogen,    H,       98.2,    90.0,   51
+Hydrogen,    H,       95.2,    80.0,    6.1
+Hydrogen,    H,       94.8,    80.0,    5.7
+Hydrogen,    H,       91.7,    60.0,    0.26
+Hydrogen,    H,       91.7,    70.0,    0.9
+Hydrogen,    H,       91.7,    80.0,    2.8
+Hydrogen,    H,       91.7,    90.0,    7.8
+Hydrogen,    H,       91.7,   100.0,   20.8
+Hydrogen,    H,       85.8,    80.0,    1.06
+Hydrogen,    H,       79.3,    70.0,    0.11
+Hydrogen,    H,       79.3,    80.0,    0.38
+Hydrogen,    H,       79.3,    90.0,    1.21
+Hydrogen,    H,       79.3,   100.0,    3.6
+Hydrogen,    H,       73.9,    80.0,    0.17
+Hydrogen,    H,       70.1,    80.0,    0.08
+m-Bromo,     m-Br,    98.2,    80.0,    7.2
+p-Bromo,     p-Br,    98.2,    60.0,    1.08
+p-Bromo,     p-Br,    98.2,    80.0,   11.7
+m-Chloro,    m-Cl,    98.2,    80.0,    7.2
+p-Chloro,    p-Cl,    98.2,    60.0,    1.12
+p-Chloro,    p-Cl,    98.2,    80.0,   11.7
+p-Chloro,    p-Cl,    98.2,    90.0,   29.8
+m-Fluoro,    m-F,     98.2,    80.0,    6.3
+m-Fluoro,    m-F,     94.8,    80.0,    1.73
+m-Fluoro,    m-F,     90.4,    80.0,    0.69    
+m-Fluoro,    m-F,     85.8,    80.0,    0.29
+p-Fluoro,    p-F,     98.2,    80.0,   13.8
+p-Fluoro,    p-F,     98.2,    60.0,    1.26
+m-Iodo,      m-I,     98.2,    80.0,    8.8
+p-Iodo,      p-I,     98.2,    60.0,    1.24
+p-Iodo,      p-I,     98.2,    80.0,   12.3
+p-Methoxy,   p-OCH3,  98.2,    80.0,   40
+p-Methoxy,   p-OCH3,  91.8,    80.0,    6.0
+p-Methoxy,   p-OCH3,  85.8,    70.0,    0.7
+p-Methoxy,   p-OCH3,  85.8,    80.0,    2.6
+p-Methoxy,   p-OCH3,  85.8,    90.0,    7.3
+p-Methoxy,   p-OCH3,  85.8,   100.0,   19.1
+p-Methoxy,   p-OCH3,  82.3,    80.0,    1.46
+p-Methoxy,   p-OCH3,  79.2,    80.0,    1.02
+p-Methoxy,   p-OCH3,  70.1,    80.0,    0.40
+m-Methyl,    m-CH3,   98.2,    80.0,   22.1
+p-Methyl,    p-CH3,   98.2,    40.5,    0.25
+p-Methyl,    p-CH3,   98.2,    52.3,    1.42
+p-Methyl,    p-CH3,   98.2,    60.0,    3.20
+p-Methyl,    p-CH3,   98.2,    80.0,   28.2
+p-Methyl,    p-CH3,   95.2,    80.0,    9.6
+p-Methyl,    p-CH3,   91.8,    80.0,    5.1
+p-Methyl,    p-CH3,   85.8,    80.0,    1.98
+p-Methyl,    p-CH3,   79.2,    80.0,    0.75
+p-Methyl,    p-CH3,   70.1,    80.0,    0.19
+m-Nitro,     m-NO2,   98.2,    80.0,    1.08
+p-Nitro,     p-NO2,   98.2,    60.0,    0.059
+p-Nitro,     p-NO2,   98.2,    80.0,    0.89
+p-Nitro,     p-NO2,   98.2,    90.0,    2.44
+p-Nitro,     p-NO2,   95.2,    80.0,    0.244
+p-Nitro,     p-NO2,   91.8,    80.0,    0.120
+p-Nitro,     p-NO2,   85.8,    80.0,    0.032
+m-Trimethyl-ammonium,    m-N(CH3)3+,  98.2,    80.0,    1.04
+o-Fluoro,    o-F,     98.2,    60.0,    0.62
+o-Chloro,    o-Cl,    98.2,    60.0,   12.2
+o-Bromo,     o-Br,    98.2,    60.0,   17.3
+o-Iodo,      o-I,     98.2,    60.0,   41 
+o-Methyl,    o-CH3,    98.2,    60.0,  162 
+o-Nitro,     o-NO2,   98.2,    60.0,    0.23 
+#o-Methoxy,   o-OCH3,  98.2,    60.0,    0.5 
+#p-Methoxy,   p-OCH3,  98.2,    60.0,    1.0  # very approx

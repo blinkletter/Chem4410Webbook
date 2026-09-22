@@ -1,0 +1,576 @@
+FilesAndLinks.txt
+
+---------------------------------------------------------------------------------------
+Lesson 01
+
+PDFs
+
+[**Molecular Orbital Tutorial**](./Lesson_01/27-Molecular_Orbital_Tutorial2_RC2.pdf) 
+[**Organic Chemistry Review**](./Lesson_01/Organic_Chemistry_Review_01-Review_of_Selected_Topics_in_Organic_Chemistry.pdf) 
+[**Review of Organic Chemistry: Nucleophilic Carbon**](./Lesson_01/Review_of_Organic_Chemistry-Nucleophilic_Carbon_02-Nucleophilic_Carbon.pdf) 
+[**Summary of Organic Chemistry**](./Lesson_01/Summary_of_Organic_Chemistry_36-Chemistry_243_Review.pdf) 
+[**A Chemistry Toolkit**](./Lesson_01/A_Chemistry_Toolkit_01-30-Chem_112_Toolkit.pdf)
+
+[**Functional Group Transformations**](./Lesson_01/01_orgo4.pdf)
+[**Organic Chemistry Review**](./Lesson_01/Organic_Chemistry_Review-Orgo-I-Overview1.pdf)
+[**Arrow Pushing**](./Lesson_01/Arrow_Pushing-MechanismExplanation.pdf)
+[**More Arrow Pushing**](./Lesson_01/03_electron_pushing_343.pdf) 
+[**Organic Chemistry Mechanisms**](./Lesson_01/Organic_Chemistry_Mechanisms_WileySample-mod6.pdf)
+[**Organic Chemistry Mechanism Problems with Answers**](./Lesson_01/Organic_Chemistry_Mechanism_Problems_with_Answers_S.Cortes.pdf)
+
+Web
+
+McMurry's [**Organic Chemistry**](https://openstax.org/details/books/organic-chemistry)
+[**Organic Chemistry: An Intermediate Text**](https://onlinelibrary-wiley-com.proxy.library.upei.ca/doi/book/10.1002/0471648736)
+IUPAC Gold Book (2021 recommendations) https://doi.org/10.1515/pac-2018-1010 
+IUPAC Gold Book (2019 being updated) https://goldbook.iupac.org
+
+[**Virtual Textbook of Organic Chemistry**](https://www2.chemistry.msu.edu/faculty/reusch/virttxtjml/intro1.htm) 
+[**The Investigation of Organic Reactions and Their Mechanisms**](https://onlinelibrary-wiley-com.proxy.library.upei.ca/doi/book/10.1002/9780470988671)
+[**Side Reactions in Organic Synthesis: A Guide to Successful Synthesis Design**](https://onlinelibrary-wiley-com.proxy.library.upei.ca/doi/book/10.1002/352760426X)
+[**Applied Organic Chemistry: Reaction Mechanisms and Experimental Procedures in Medicinal Chemistry**](https://onlinelibrary-wiley-com.proxy.library.upei.ca/doi/book/10.1002/9783527828166)
+[**Free Organic Books**](http://www.digitalbookindex.org/_search/search010menu-chem.asp)
+
+**Name Reactions and Reagents in Organic Synthesis** [Actual Book]  [**UPEI Library: QD291.M86 2005**](https://research-ebsco-com.proxy.library.upei.ca/linkprocessor/plink?id=3cce6614-d587-3f27-bc75-7796309662b7) 
+
+[**Laboratory Techniques and Methods to Improve Your Experimental Skills**](http://www.chem.rochester.edu/notvoodoo/)
+[**Organic Chemistry Data**](https://organicchemistrydata.org/)
+[**ChemTube3D**](https://www.chemtube3d.com/main-page/)
+[**Organic Reaction Mechanisms Series**](https://onlinelibrary-wiley-com.proxy.library.upei.ca/series/1200)
+    
+[**https://commonchemistry.cas.org/**](https://commonchemistry.cas.org/) 
+[**https://pubchem.ncbi.nlm.nih.gov/**](https://pubchem.ncbi.nlm.nih.gov/)  
+[**https://webbook.nist.gov/chemistry/**](https://webbook.nist.gov/chemistry/)  
+[**https://www.sigmaaldrich.com/CA/en**](https://www.sigmaaldrich.com/CA/en)  
+[**http://www.chemspider.com/**](http://www.chemspider.com/)  
+[**https://www.rsc.org/merck-index**](https://www.rsc.org/merck-index)
+
+-----------------------------------------
+Part 01
+
+PDFs
+
+[**preface of your textbook (pages xxiii to xxiv)**](https://uscibooks.aip.org/wp-content/uploads/adfm_new.pdf)
+[**handout**](../Lesson_01/handouts/4410_Handout_01.pdf)
+
+
+
+Web
+
+"Six Pillars of Organic Chemistry." Joseph J. Mullins, *Journal of Chemical Education*, **2008**, *85*, 83-97. [**https://doi.org/10.1021/ed085p83**](https://doi.org/10.1021/ed085p83)
+"Physical Organic Chemistry in the 21st Century: A Q1 Progress Report." H.I. Williams, *Chemistry International*, **2022**, *44*, 10-13. [**https://doi.org/10.1515/ci-2022-0203**](https://doi.org/10.1515/ci-2022-0203)
+[**Pure & Applied Chemistry Special Issue**](https://www.degruyterbrill.com/journal/key/pac/69/2/html) 
+"Physical-Organic Chemistry: A Swiss Army Knife.", G.M. Whitesides, *Isr. J. Chem.*, **2016**, *56*, 66-82. [**https://doi.org/10.1002/ijch.201500061**](https://doi.org/10.1002/ijch.201500061)
+
+"What will physical organic chemistry achieve in the 21st century?" Ronald Breslow, *Pure and Applied Chemistry*, **1997**, *69*, 223-226. [**https://doi.org/10.1351/pac199769020223**](https://doi.org/10.1351/pac199769020223) 
+"Physical organic chemistry after 50 years: It has changed, but is it still there?" G.S. Hammond, *Pure and Applied Chemistry*, **1997**, *69*, 1919-1922. [**https://doi.org/10.1351/pac199769091919**](https://doi.org/10.1351/pac199769091919)
+"The application of physical organic chemistry to biochemical problems." Frank Westheimer, *Journal of Chemical Education*, **1986**, *63*, 409-413. [**https://doi.org/10.1021/ed063p409**](https://doi.org/10.1021/ed063p409)
+"Physical organic chemistry in retrospect." Louis P. Hammett, *Journal of Chemical Education*, **1966**, *43*, 464-469. [**https://doi.org/10.1021/ed043p464**](https://doi.org/10.1021/ed043p464)
+
+
+-----------------------------------------
+Part 02
+
+PDFs
+
+[**handout**](../Lesson_01/handouts/4410_Handout_02.pdf)
+[**Molecular Orbital Tutorial**](../Lesson_01/27-Molecular_Orbital_Tutorial2_RC2.pdf)
+[**That Arrhenius 'A' Value**](../Lesson_02/08-Arrhenius.pdf)
+[**An Anomeric Effect Handout**](../Lesson_01/06-Stereoelectronic_Effects.pdf)
+
+Web
+
+"Faithful couple: The electron pair." L. Salem, *J. Chem. Ed.*, **1978**, *55*, 344-348 [https://doi.org/10.1021/ed055p344](https://doi.org/10.1021/ed055p344)
+
+
+-----------------------------------------
+Part 03
+
+PDFs
+
+[**handout**](../Lesson_01/handouts/4410_Handout_03.pdf)
+[**Comments on Handout**](../Lesson_01/handouts/4410_Handout_03_Comments.pdf)
+
+[**Organic Chemistry Review**](../Lesson_01/Organic_Chemistry_Review_01-Review_of_Selected_Topics_in_Organic_Chemistry.pdf)
+[**Review of Organic Chemistry: Nucleophilic Carbon**](../Lesson_01/Review_of_Organic_Chemistry-Nucleophilic_Carbon_02-Nucleophilic_Carbon.pdf)
+[**Summary of Organic Chemistry**](../Lesson_01/Summary_of_Organic_Chemistry_36-Chemistry_243_Review.pdf)
+[**A Chemistry Toolkit**](../Lesson_01/A_Chemistry_Toolkit_01-30-Chem_112_Toolkit.pdf)
+
+[**Functional Group Transformations**](../Lesson_01/01_orgo4.pdf)
+[**Organic Chemistry Review**](../Lesson_01/Organic_Chemistry_Review-Orgo-I-Overview1.pdf)
+[**Arrow Pushing**](../Lesson_01/Arrow_Pushing-MechanismExplanation.pdf)
+[**More Arrow Pushing**](../Lesson_01/03_electron_pushing_343.pdf)
+[**Organic Chemistry Mechanisms**](../Lesson_01/Organic_Chemistry_Mechanisms_WileySample-mod6.pdf)
+[**Organic Chemistry Mechanism Problems with Answers**](../Lesson_01/Organic_Chemistry_Mechanism_Problems_with_Answers_S.Cortes.pdf)
+
+Web
+
+"Construction by De-construction." G. Bhattacharyya, *J. Chem. Ed.*, **2019**, *96*, 1294-1297. [https://doi.org/10.1021/acs.jchemed.8b00579](https://doi.org/10.1021/acs.jchemed.8b00579)
+
+
+-----------------------------------------
+Part 04
+
+PDFs
+
+[**handout**](../Lesson_01/handouts/4410_Handout_04.pdf)
+[**Comments on Handout**](../Lesson_01/handouts/4410_Handout_04_Comments.pdf)
+
+[Reactions Involving Cations](../Lesson_01/01_CationProblemSet.pdf)
+[Reactions Involving Anions](../Lesson_01/02_AnionsProblemSet.pdf)
+[Reactions Involving Carbonyl Groups](../Lesson_01/03_CarbonylProblemSet.pdf)
+[More Reactions](../Lesson_01/04_ProblemSet4.pdf)
+
+Web
+
+-----------------------------------------
+Part 05
+
+PDFs
+
+[**handout**](../Lesson_01/handouts/4410_Handout_05.pdf)
+
+Web
+
+Assignment 01
+
+Web
+[**A Brief Guide to ACS Style**](https://www.concordia.ca/library/guides/chemistry/acs.html)
+[**ACS Style Guide**](https://pubs.acs.org/doi/book/10.1021/acsguide)
+
+Assignment 02
+
+PDFs
+[**sample assignment report**](../Lesson_01/Sample_Assignment_Presentation.odt.pdf)
+[**Textbook questions made them available**](../Lesson_01/Appendix_5_Questions.pdf)
+
+
+---------------------------------------------------------------------------------------
+Lesson 02
+
+PDFs
+[**Acid-Base Tutorial**](./Lesson_02/08-T9-Acid-Base.pdf)
+[**Integrating Rate Equations**](./Lesson_02/09-T21-Integrating_Simple_Rate_Equations.pdf)
+
+Web
+[**Williams’ Compilation of *pK<sub>a</sub>* Tables**](https://organicchemistrydata.org/hansreich/resources/pka/)
+[**Reich’s *pK<sub>a</sub>* Table**](https://organicchemistrydata.org/hansreich/resources/pka/)  
+[**Evans’ *pK<sub>a</sub>* Table**](https://organicchemistrydata.org/hansreich/resources/pka/) 
+[**A Short *pK<sub>a</sub>* Table**](https://cactus.utahtech.edu/smblack/chem2310/summary_pages/pKa_chart.pdf) 
+[**Another Short *pK<sub>a</sub>* Table**](https://myersorganic.netlify.app/2511_Files/Chapter3-pKa%20table.pdf) 
+
+[**Math With *Python***](https://blinkletter.github.io/MathWithPython/)
+[**Rate Equations with *Python***](https://blinkletter.github.io/ReactionKineticsBook/)
+[***Python* and Data Analysis in Chemistry**](https://blinkletter.github.io/PythonPresentation/)
+[**Steal This Code**](https://blinkletter.github.io/StealThisCode/)
+
+-----------------------------------------
+Part 06
+
+PDFs
+[**handout**](../Lesson_02/4410_Handout_06.pdf)
+
+Web
+
+"The Bronsted-Lowry acid base concept." G.B. Kauffman, *J. Chem. Ed.*, **1988**, *65*, 28-31, [**https://doi.org/10.1021/ed065p28**](https://doi.org/10.1021/ed065p28)
+"The *pK<sub>a</sub>* of Water and the Fundamental Laws Describing Solution Equilibria: An Appeal for a Consistent Thermodynamic Pedagogy." T.L. Neils, S. Schaertel, T.P. Silverstein, *Helv. Chim. Acta*, **2024**, *107*, e202400103. [**https://doi.org/10.1002/hlca.202400103**](https://doi.org/10.1002/hlca.202400103)
+
+-----------------------------------------
+Part 07
+
+PDFs
+
+[**handout**](../Lesson_02/4410_Handout_07.pdf)
+
+Web
+
+-----------------------------------------
+Part 08
+
+PDFs
+
+[**handout**](../Lesson_02/4410_Handout_08.pdf)
+[**Arrhenius Plots**](../Lesson_02/08-Arrhenius.pdf)
+[**Integrating Rate Equations**](../Lesson_02/09-T21-Integrating_Simple_Rate_Equations.pdf)
+
+Web
+-----------------------------------------
+Part 09
+
+PDFs
+
+[**here**](../Lesson_02/4410_Handout_09.pdf)
+
+
+Web
+-----------------------------------------
+Part 10
+
+PDFs
+
+[**here**](../Lesson_02/4410_Handout_10.pdf)
+
+[**Exploration: pH-rate Profiles in Ester and Carbonate Hydrolysis**](../Lesson_02/10-Ester-carbamate.pdf)
+[**Exploration: The Changing Value of $K_w$**](../Lesson_02/10-KW_NIST_Exploration.pdf) 
+
+Web
+
+Notebooks
+
+**pH-rate Profiles in Ester and Carbonate Hydrolysis**: 
+    [**Figures 5 to 10**](../../notebooks/M10_Ester_Carbamate_pH-Rate_Profile/pH-RateProfileEsters_MoreData.ipynb) \[via Colab\] Plots of pH-rate profiles for carbonates.
+    [**Figure 2**](../../notebooks/M10_Ester_Carbamate_pH-Rate_Profile/pH-RateProfileEsters-FancyPlots.ipynb) \[via Colab\] Plots of pH-rate profiles for diclofenac esters.
+[**The Changing Value of $K_w$**](../../notebooks/M10_Water_Ion_Product/water_ion_product.ipynb) \[via Colab\] This notebook produced the plots, interpolations and data analysis in the document exploring **Changing Value of $K_w$** vs temperature described above.
+
+-----------------------------------------
+Part 11
+
+PDFs
+
+[**here**](../Lesson_02/4410_Handout_11.pdf)
+
+Web
+
+Notebooks
+
+[**Plotting Notebook**](../../notebooks/M11_Bronsted_Plots/calcs_meeting_11.ipynb)
+
+-----------------------------------------
+Assignment 02
+-----------------------------------------
+Assignment 03
+
+"The Catalyzed Dehydration of Acetaldehyde Hydrate, and the Effect of Structure on the Velocity of Protolytic Reactions." R.P. Bell, W.C.E. Higginson." *Proc. Royal Soc. Lond. Ser. A*, **1949**, *197*, 141-159. [https://www.jstor.org/stable/98240](https://www.jstor.org/stable/98240)
+
+[**here**](../Lesson_02/Data2All.csv) 
+
+
+---------------------------------------------------------------------------------------
+Lesson 03
+
+PDFs
+
+[LFER Tutorial](./Lesson_03/14-T31-LFER.pdf) 
+[LFER Data Set (Taft)](./Lesson_03/15-cr00002a004_Taft_1991.pdf) 
+[LFER Data Set (Williams)](./Lesson_03/15-LFER_Parameters_(williams).pdf) 
+
+Web
+
+[Williams Textbook available via the UPEI library as an e-book](https://ebookcentral.proquest.com/lib/upei/detail.action?docID=1185543).
+
+
+-----------------------------------------
+Part 12
+
+PDFs
+
+[**here**](../Lesson_03/4410_Handout_12.pdf)
+[**data plots handout**](../Lesson_03/4410_Handout_12-comments.pdf)
+
+[**LFER Tutorial**](../Lesson_03/14-T31-LFER.pdf)
+
+Web
+
+Notebooks
+[**Figures 1 \& 3**](../../notebooks/M12_Handout_Comments/Table1and2_ClassExamples.ipynb): Plots of $log{k_{obs}}$ vs $\Delta pK_a$ or $\sigma$.
+[**Figure 4**](../../notebooks/M12_Handout_Comments/Table_4_Plots.ipynb): Hammett plots for hydrolysis of benzyl chloride in basic and acidic conditions.
+[**Figure 6**](../../notebooks/M12_Handout_Comments/Table_5_Plots.ipynb): Hammett plots for hydrolysis of benzyl chloride in different solvent mixtures and temperatures.
+[**Figure 7:**](../../notebooks/M12_Handout_Comments/Table_6_Plots.ipynb): Hammett plots for solvolysis of diphenylmethylene chloride.
+[**Figure 9**](../../notebooks/M12_Handout_Comments/Table_7_Plots.ipynb): : Hammett plots for solvolysis of trityl acetate.
+
+
+-----------------------------------------
+Part 13
+
+PDFs
+
+[**here**](../Lesson_03/4410_13_Handout.pdf) 
+[**data plots handout #2**](../Lesson_03/4410_13_Handout_Comments.pdf)
+
+Web
+
+Notebooks
+[**Figures 3, 5, 6, \& 7**](../../notebooks/M12_Handout_Comments/Table_7_Plots_with_YukawaTsuno.ipynb): Hammett plots for solvolysis of trityl acetate using the Brown-Okamoto $\sigma^+$ parameters and the Yukawa-Tsuno method.
+
+-----------------------------------------
+Part 14
+
+PDFs
+
+[**here**](../Lesson_03/4410_14_Handout.pdf)
+
+[**Exploration of Oxidative Cleavage**](../Lesson_03/4410_14_E06-Isokinetic.pdf)
+[**Exploration Tips**](../Lesson_03/4410_14_E05-Exploration_Tips.pdf)
+
+[**Exploration of Hydrolysis of Nitrosamines**](../Lesson_03/4410_14_E01-Nitrosamines.pdf)  
+[**Exploration of Acetolysis of Benzyl Tosylates**](../Lesson_03/4410_14_E02-BzTosylateHammett.pdf) 
+[**Exploration of Hydrolysis of an Imine**](../Lesson_03/4410_14_E03-ImineHydrolysis.pdf)
+[**Exploration of a Cyclodehydration Reaction**](../Lesson_03/4410_14_E04-CyclodehydrogenationExploration.pdf)
+
+[**An Exploration of Isokinetic Temperature**](../Lesson_03/4410_14_E06-Isokinetic.pdf)
+
+Web
+
+Notebooks
+Plots and calculations supporting the [**Exploration of Isokinetic Temperature**](../../notebooks/M14_ExampleExplorations/isokinetic.ipynb) described above. This is similar to Problem 8-23 in the textbook, which was discussed in the class handout.
+Plots and calculations for the [**Exploration of Hydrolysis of Nitrosamines**](../../notebooks/M14_ExampleExplorations/M14_Class_Handout_Problems_Nitrosamines.ipynb)
+Plots and calculations for the [**Exploration of Acetolysis of Benzyl Tosylates**](../../notebooks/M14_ExampleExplorations/M14_Class_Handout_Problems.ipynb)
+Plots and calculations for the [**Exploration of Hydrolysis of an Imine**](../../notebooks/M14_ExampleExplorations/M14_Class_Handout_Problems_Imines.ipynb)
+Plots and calculations for **Exploration of a Cyclodehydration Reaction**
+    [**Figure 2: Hammett plot**](../../notebooks/M14_ExampleExplorations/M14_CyclodehydrationNotebooks/HammetPlot.ipynb)
+    [**Figure 5 \& 6: Acidity Functions**](../../notebooks/M14_ExampleExplorations/M14_CyclodehydrationNotebooks/AcidRateOrder.ipynb)
+    [**Figure 7: Isotope Effect**](../../notebooks/M14_ExampleExplorations/M14_CyclodehydrationNotebooks/IsotopeEffect.ipynb)
+    [**Figures 8, 9 \& 10: Eyring Plots**](../../notebooks/M14_ExampleExplorations/M14_CyclodehydrationNotebooks/EryingPlots.ipynb)
+    [**Calculations for H<sub>0</sub> of HOAc/H<sub>2</sub>SO<sub>4</sub> mixtures**](<../../notebooks/M14_ExampleExplorations/M14_CyclodehydrationNotebooks/Ho Acetic Acid Notebook/H0_Acetic_Acid_H2SO4.ipynb>)
+
+
+-----------------------------------------
+Part 15
+
+PDFs
+
+[**here**](../Lesson_03/4410_15-Activity_04.pdf)
+[**here**](../Lesson_03/4410_15-PreClassActivityData.csv)
+
+[**here**](../Lesson_03/4410_15-Handout.pdf)
+[**data plots handout #3**](../Lesson_03/4410_15-Handout_Comments.pdf)
+
+[**Exploration of Taft and Charton parameters**](../Lesson_03/4410_15-ExploreChartonTaft.pdf)
+
+Web
+
+Notebooks
+
+[**here**](https://colab.research.google.com/github/blinkletter/4410PythonNotebooks/blob/main/Class_17/4410_15-PreClassActivityPlot.ipynb)
+
+[**Taft and Charton parameters**](../../notebooks/M15_Charton_Parameters/TaftExample.ipynb): Plots and data analysis supporting the **Exploration of Taft and Charton parameters** described above.
+**Class Meeting Handout Discussion Plots**: The following notebooks contain the code for the plots and data analysis in the Class handout and the Handout Discussion documents presented above.
+    [**Figures 1 \& 2**](../../notebooks/M15_Handout_Comments/4410_15-PreClassActivityPlot.ipynb): Plots of the data from the pre-class activity.
+    [**Figure 3**](../../notebooks/M15_Handout_Comments/17-ClassExample-table1and3.ipynb): Acid and base hydrolysis of ethyl benzoate.
+    [**Data Analysis -Table 4**](../../notebooks/M15_Handout_Comments/17-ClassExample-table3.ipynb): Exercise absed on **question 5 of the handout**. Using hydrolysis rate data of aliphatic esters to construct taft parameters.
+    [**Data Analysis -Table 3**](../../notebooks/M15_Handout_Comments/17-ClassExample-table4and5.ipynb)
+
+-----------------------------------------
+Part 16
+
+PDFs
+
+[**here**](../Lesson_03/4410_16-Handout.pdf)
+
+Web
+
+
+-----------------------------------------
+Part 17
+
+PDFs
+
+[**here**](../Lesson_03/4410_17-Handout.pdf)
+
+-----------------------------------------
+Assignment 04
+
+[**The data is available**](../Lesson_03/A04_DataSet.zip)
+
+-----------------------------------------
+Assignment 05
+
+[**A Note About More O'Ferral-Jencks Plots**](../Lesson_02/8-MoreOFerralJencks.pdf)
+
+---------------------------------------------------------------------------------------
+Lesson 04
+
+PDFs
+[Kinetic Isotope Effect Tutorial](./Lesson_04/Isotope_RC2.pdf)
+
+-----------------------------------------
+Part 18
+
+PDFs
+[**here**](../Lesson_04/4410_18-Handout.pdf)
+
+Web
+
+-----------------------------------------
+Part 19
+
+PDFs
+[**here**](../Lesson_04/4410_19-Handout.pdf) 
+
+Web
+
+-----------------------------------------
+Assignment 06
+
+[**here**](../Lesson_04/A06_IsotopeEffect.pdf)
+
+
+---------------------------------------------------------------------------------------
+Lesson 05
+
+PDFs
+
+-----------------------------------------
+Part 21
+
+PDFs
+
+[Reactions Involving Cations Worksheet](../Lesson_01/01_CationProblemSet.pdf)
+
+Web
+
+-----------------------------------------
+Part 22
+
+PDFs
+[**Solvolysis of Benzyl Chloride -Again**](../Lesson_05/E1-Exploration_1.pdf)
+[Reactions Involving Anions Worksheet](../Lesson_01/02_AnionsProblemSet.pdf)
+
+Web
+``Changes in mechanism and transition state structure for solvolysis reactions of ring substituted benzyl chlorides in aqueous solution.'' P.E. Yeary, J.P. Richard, *J. Phys. Org. Chem.*, **2024**, *37*, e4600. [https://doi.org/10.1002/poc.4600](https://doi.org/10.1002/poc.4600)
+
+Notebooks
+[**Notebook for Reproducing the Authors' Plots**](../../notebooks/M22_Yeary2024_BnCl_Solvolysis/E1_benzylchloride_Paper.ipynb)
+[**Notebook for My own Analysis of the Authors' Data**](../../notebooks/M22_Yeary2024_BnCl_Solvolysis/E1_benzylchloride.ipynb)
+[**Notebook for Spectra**](../../notebooks/M22_Yeary2024_BnCl_Solvolysis/spectra.ipynb)
+
+
+-----------------------------------------
+Part 23
+
+PDFs
+[Reactions Involving Carbonyl Groups Worksheet](../Lesson_01/03_CarbonylProblemSet.pdf)
+
+Web
+
+-----------------------------------------
+Part 24
+
+PDFs
+[More Reactions Worksheet](../Lesson_01/04_ProblemSet4.pdf)
+[**here**](../Lesson_05/M24_ExplorationProposal.pdf)
+
+Web
+“The Structure of the Bicyclo[2,2,1]2-Heptyl (Norbornyl) Carbonium Ion.” S. Winstein, D.S. Trifan , *J. Am. Chem. Soc.*, **1949**, *71*, 2953. [https://doi.org/10.1021/ja01176a536](https://doi.org/10.1021/ja01176a536)
+
+Notebooks
+[**IR Spectrum plot**](../../notebooks/M24_Winstein_Non_Classical/exoexoIR_top.ipynb) Plotting the digitized data for the IR specta.
+[**Optical Rotation Plot**](../../notebooks/M24_Winstein_Non_Classical/OpticalRot.ipynb) Reaction kinetics plot of the data reported by Winstein.
+[**Eyring Plots**](../../notebooks/M24_Winstein_Non_Classical/Eyring.ipynb) The Erying plots presented by Winstein plotted using a bootstrap method to extimate errors for the thermodynamic parameters.
+
+-----------------------------------------
+Part 25
+
+PDFs
+[**here**](../Lesson_05/M25_4410_EX-NonClassical.pdf)
+
+Web
+“Neighboring Carbon and Hydrogen. X. Solvolysis of endo-Norbornyl Arylsulfonates.” S. Winstein, D. Trifan , *J. Am. Chem. Soc.*, **1952**, *74*, 1147–1154. [https://doi.org/10.1021/ja01125a006](https://doi.org/10.1021/ja01125a006)
+“Neighboring Carbon and Hydrogen. XI. Solvolysis of exo-Norbornyl p-Bromobenzenesulfonate.” S. Winstein, D. Trifan , *J. Am. Chem. Soc.*, **1952**, *74*, 1154–1160. [https://doi.org/10.1021/ja01125a007](https://doi.org/10.1021/ja01125a007)
+
+
+-----------------------------------------
+Part 26
+
+PDFs
+
+Web
+
+
+
+
+---------------------------------------------------------------------------------------
+Lesson 05
+
+PDFs
+
+-----------------------------------------
+Part 27
+
+PDFs
+[**here**]((../Lesson_06/27_AcylTransfer.pdf))
+
+Web
+
+-----------------------------------------
+Part 28
+
+PDFs
+[**here**](../Lesson_06/28_pH_rate_profile_Aspirin.pdf)
+Web
+
+Notebooks
+[**Aspirin Hydrolysis Calculations**](../../notebooks/M28_Aspirin/aspirin_notebook_with_uncertainty.ipynb)
+
+-----------------------------------------
+Part 29
+
+PDFs
+[**An Anomeric Effect Handout**](../Lesson_01/06-Stereoelectronic_Effects.pdf)
+Web
+
+-----------------------------------------
+Part 30
+
+PDFs
+[**here**](../Lesson_06/30-AcetyleneDiscussion.pdf) 
+Web
+
+Notebooks
+[**Figures and calculations**](../../notebooks/M30_Acetylene_Addition/acetylene_notebook.ipynb): Data analysis and plots for the exploration.]
+
+-----------------------------------------
+Part 32
+
+PDFs
+
+Web
+
+-----------------------------------------
+Part 33
+
+PDFs
+
+Web
+
+-----------------------------------------
+Part 33
+
+PDFs
+[**here**](../Lesson_06/33_Danna.pdf)
+
+Web
+
+Notebooks
+[**Figure 3**](../../notebooks/M33_D'Anna/23A-Fig3-pHprofilefor1f.ipynb): pH-rate profile for the ring rearrangement of reactant **1-f**.
+[**Figure 9**](../../notebooks/M33_D'Anna/23B-Fig9-Figure2Paper_Hammett_Base_Rate.ipynb): Hammett plot for reaction at pH 11.5.
+[**Figure 10**](../../notebooks/M33_D'Anna/23C-Fig10-Figure3Paper_Hammett_Uncat_Rate.ipynb): Hammett plot for reaction at pH 3.8.
+[**Figure 12**](../../notebooks/M33_D'Anna/23D-Fig12-Figure4Paper_Hammett_Acid_Rate.ipynb): Hammett plot for reaction at pH 1.0.
+[**Figures 14 \& 15**](../../notebooks/M33_D'Anna/23E-Fig14_15-1b_calculator.ipynb): Temperature adjustment calculations and plots
+[**Figures 16 to 19**](../../notebooks/M33_D'Anna/23F-Fig16_17_18_19-pHprofilefor1f.ipynb): pH-rate plots and curve fit for models assuming initary order in \[H<sup>+</sup>\] and non-unitary order.
+[**Figure 20**](../../notebooks/M33_D'Anna/23G-Fig20-pH_profile_fit_1c.ipynb): Annotated pH-rate profile for reactant **1-c**
+[**Figure 21 \& 37**](../../notebooks/M33_D'Anna/23H-Fig21_41X-AutoFit_Results.ipynb): Stacked plot of curve fits for model. Tiled plots from appendix.
+[**Table 5**](../../notebooks/M33_D'Anna/23I-Table5-ResultsTableCalculations.ipynb): calculation for Table 5.
+[**Figures 22 \& 23 to 26**](../../notebooks/M33_D'Anna/23J-Fig22_23_24_25_Hammett_Base_Rate.ipynb): Yukawa-Tsuno plots and model optimizations for Hammett plots at pH 11.5
+[**Figures 27 \& 28**](../../notebooks/M33_D'Anna/23K-Fig26_27_Hammett_Water_Rate.ipynb): Yukawa-Tsuno plots for pH 3.8.
+[**Figures 29, 30  \& 31**](../../notebooks/M33_D'Anna/23L-28_29_Hammett_Acid_Rate.ipynb): Yukawa-Tsuno plots for pH 1.0. Also Hammett plot for pK<sub>a</sub>
+[**Early Work**](../../notebooks/M33_D'Anna/23N-FigXX-Sigma_I_Uncat_Rate.ipynb): Investigations into possible negative values for r<sup>+</sup> in the IYT plots. Deprecated.
+
+
+
+
+
+
+
+---------------------------------------------------------------------------------------
+Lesson 05
+
+PDFs
+
+-----------------------------------------
+Part 27
+
+PDFs
+
+Web
+
