@@ -81,6 +81,6 @@ Code for the plots presented in the documents presented on this page are availab
     - [**Figure 5 \& 6: Acidity Functions**](../../notebooks/M14_ExampleExplorations/M14_CyclodehydrationNotebooks/AcidRateOrder.ipynb)
     - [**Figure 7: Isotope Effect**](../../notebooks/M14_ExampleExplorations/M14_CyclodehydrationNotebooks/IsotopeEffect.ipynb)
     - [**Figures 8, 9 \& 10: Eyring Plots**](../../notebooks/M14_ExampleExplorations/M14_CyclodehydrationNotebooks/EryingPlots.ipynb)
-    - [**Calculations for H<sub>0</sub> of HOAc/H<sub>2</sub>SO<sub>4</sub> mixtures**](<../../notebooks/M14_ExampleExplorations/M14_CyclodehydrationNotebooks/Ho Acetic Acid Notebook/H0_Acetic_Acid_H2SO4.ipynb>)
+    - [**Calculations for H<sub>0</sub> of HOAc/H<sub>2</sub>SO<sub>4</sub> mixtures**](<../../notebooks/M14_ExampleExplorations/M14_CyclodehydrationNotebooks/Ho_Acetic_Acid_Notebook/H0_Acetic_Acid_H2SO4.ipynb>)
 
 
