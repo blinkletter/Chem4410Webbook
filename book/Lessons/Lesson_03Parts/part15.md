@@ -58,7 +58,7 @@ We may be revisiting this **exploration** document in a few weeks. You should ke
 
 ### Explorations
 
-- [**Exploration of Taft and Charton parameters**](../Lesson_03/4410_15-ExploreChartonTaft.pdf) \[PDF\] - here I explore the use of steric parameters in interpretting the effect of substituents in an organometalic reaction. The paper explored usins Charton parameters. What are they and how do theuy compare to Taft parameters?
+- [**Exploration of Taft and Charton parameters**](../Lesson_03/4410_15-ExploreChartonTaft.pdf) \[PDF\] - here I explore the use of steric parameters in interpretting the effect of substituents in an organometalic reaction. The paper explored uses Charton parameters. What are they and how do they compare to Taft parameters?
 
 ### Jupyter Notebooks
 
@@ -66,5 +66,5 @@ We may be revisiting this **exploration** document in a few weeks. You should ke
 - **Class Meeting Handout Discussion Plots**: The following notebooks contain the code for the plots and data analysis in the Class handout and the Handout Discussion documents presented above.
     - [**Figures 1 \& 2**](../../notebooks/M15_Handout_Comments/4410_15-PreClassActivityPlot.ipynb): Plots of the data from the pre-class activity.
     - [**Figure 3**](../../notebooks/M15_Handout_Comments/17-ClassExample-table1and3.ipynb): Acid and base hydrolysis of ethyl benzoate.
-    - [**Data Analysis - Table 4**](../../notebooks/M15_Handout_Comments/17-ClassExample-table3.ipynb): Exercise absed on **question 5 of the handout**. Using hydrolysis rate data of aliphatic esters to construct taft parameters.
+    - [**Data Analysis - Table 4**](../../notebooks/M15_Handout_Comments/17-ClassExample-table3.ipynb): Exercise based on **question 5 of the handout**. Using hydrolysis rate data of aliphatic esters to construct taft parameters.
     - [**Data Analysis - Table 3**](../../notebooks/M15_Handout_Comments/17-ClassExample-table4and5.ipynb)
