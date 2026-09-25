@@ -1,6 +1,6 @@
 # Assignment \#5: More O'Ferrall-Jencks Diagrams
 
-The following assignment is to be **submitted** via moodle **before** the class meeting \#18.
+The following assignment is to be **submitted** via moodle **before** the class meeting \#19.
 
 ## The Activity
 This section describes the **activity** that you are to perform for the assignment. Do the following&hellip;

@@ -19,11 +19,11 @@ Take note that test \#2 will occur immediately after this lesson. **This year**,
 
 In the **examples** chosen for this lesson, we will see use our **knowledge** of mechanism, molecular orbitals, acid/base catalysis, linear free energy relationships, isotope effects, stereochemistry and experimental design to interpret, criticize and occassionally correct **published** work in the field. The **information** for each of these class **meetings** can be accessed directly by the **links** in the **sidebar**.
 
-21. **S<sub>N</sub>1 \& S<sub>N</sub>2 substitution**
+20. **S<sub>N</sub>1 \& S<sub>N</sub>2 substitution**
     - Is there anything simpler than the basic S<sub>N</sub>1 \& S<sub>N</sub>2 mechanism? It's not that simple, as we shall see.
-22. **Solvolysis Example. Part 1**
+21. **Solvolysis Example. Part 1**
     - We will explore a literature contribution featuring a solvolysis reaction. Is it S<sub>N</sub>1 or S<sub>N</sub>2? Or perhaps both?
-23. **Solvolysis Example. Part 2**
+22. **Solvolysis Example. Part 2**
     - Sometimes we can evaluate the data in a paer using a different approach and get to the same conclusions. Let's have some fun.
 
 %%%%%%%%%%% OLD STUFF %%%%%%%%%%%%%%%%%%    
@@ -56,20 +56,17 @@ This lesson will take place over **two class meetings**. The first will present 
 
 In the **examples** chosen for this lesson, we will see use our **knowledge** of mechanism, molecular orbitals, acid/base catalysis, linear free energy relationships, isotope effects, stereochemistry and experimental design to interpret, criticize and occassionally correct **published** work in the field. The **information** for each of these class **meetings** can be accessed directly by the **links** in the **sidebar**.
 
-24. **Non-classical cations**
+23. **Non-classical cations**
     - Neighbouring groups can stabilize high-energy intermediates and enable rate accelerations, regioselectivity and stereoselectivity. In one example of these mechanisms, the question of the nature of the intermediate was called into question and a robust academic debate that lasted two decades ensued. We will explore this idea.
-25. **Non-classical cations - Experimental Evidence**
-    - We now know what the idea of a non-classical cation is. But what is the evidence? We will explore some of the experiments that supported this hypothesis.
-26. **The Starting Line**
-    - Today you will submit assignment \#8 to the instructor and you will **present your topic** to your classmates in a brief 3-minute presentation.
-
+24. **Non-classical cations - Experimental Evidence**
+    - We now know what the idea of a non-classical cation is. But what is the evidence? We will explore some of the experiments that supported this hypothesis. Today you will submit assignment \#8 to the instructor and you will **present your topic** to your classmates in a brief 3-minute presentation.
 
 ### Assignments
 
 Each lesson includes one or more assignments. **Check the page** for the assignment for this lesson. Check the **due date** and make a plan so that you can complete the assignment with time to spare.
 
 
-8. **Assignment \#8**
+7. **Assignment \#7**
     - The **personal exploration report** will be due at the end of his course. This assignment will serve as the official **starting point**. You will **submit** a literature contribution that you plan to use as the centrepiece of your exploration, and **write** a short overview of the topic, why you chose it and where you plan to go with it.
 <hr>
 

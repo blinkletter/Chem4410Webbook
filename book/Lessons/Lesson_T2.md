@@ -1,8 +1,11 @@
-# 31: Test \#2
+# 28: Test \#2
 
 Test \#2 will provide a short **evaluation** of where we are in absorbing the **skills and methods** of physical organic chemistry.
 
-It will **examine** understanding of mechanism of analysis of mechanism. 
+It will **examine** understanding of mechanism and how we analysis these mechanisms. 
+
+See the **[syllabus](../Info/Course_Info.md)** and **[course outline](../Info/Outline.md)** for the dates.
+
 
 ## Previous Tests
 

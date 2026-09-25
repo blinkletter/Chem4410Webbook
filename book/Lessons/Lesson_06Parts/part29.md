@@ -1,4 +1,4 @@
-# 29: Hemiacetals
+# 26: Hemiacetals
 
 Acetals and hemiacetals are a very important group in organic chemistry. We see them using in protecting carbonyl groups in synthesis schemes and they are the linkage between sugar units in polysaccharides. Their formation and hydrolysis reactions are well studied by physical organic chemists.
 <hr>

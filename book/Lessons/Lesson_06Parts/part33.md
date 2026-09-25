@@ -1,4 +1,4 @@
-# 33: Exploring a Rearrangement
+# 30: Exploring a Rearrangement
 
 There are many examples of rearrangement reactions discussed in the textbook in Chapter 11. As you complete reading all of chapters 10 and 11 you will have encountered them. This class meeting will focus on a ring-rearrangement reaction where I found a great deal of data to explore.
 <hr>

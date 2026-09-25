@@ -1,4 +1,4 @@
-# 15: Steric Effects
+# 14: Steric Effects
 
 The Hammett LFER system is rigged. It uses *para* ande *meta*-substituted benzene rings as the probe for electronic effects. This provides an unchanging **steric demand** at the reaction center while allowing electronic effects to be probed. Not every reaction has a convenient benzene ring nearby. The **Taft-Ingold** LFER system uses the acid and the base-catalyzed hydrolysis of aliphatic esters as the standards to create a pair of parameters that describe both the electronic effect and the steric demand of a substituent that is directly connected to the reaction centre.
 

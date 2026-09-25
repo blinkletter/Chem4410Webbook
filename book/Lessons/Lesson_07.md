@@ -16,18 +16,22 @@ In the **examples** chosen for this lesson, we will see use our **knowledge** of
 
 %34. **Carbene reactions**
 %    - Carbenes are high-energy intermediates are a very reactive. Their chemistry is also dominated by molecular orbital interactions. This subject is covered in chapter 15 but has a more detailed discussion in chapter 10.11.
-34. **Cycloaddition reactions**
+31. **Cycloaddition reactions**
     - This topic and the next two topics will highlight how molecular orbital theory can be paramount in interpreting reaction mechanisms. Pushing curved arrows will not explain all observations. We will examine molecular orbitals and frontier molecular orbital theory (FMOT) as they apply to cycloaddition reactions and inform the famous Woodward-Hoffmann rules. 
-35. **Electrocyclic reactions**
+32. **Electrocyclic reactions**
     - Another mechanism that serves as an example for FMOT.
-36. **Pericyclic rearrangements**
+33. **Pericyclic rearrangements**
     - No high-energy intermediates are required to accomplish these rearrangements. Another example of FMOT in action.
-
+34. **Carbenes**
+    - Carbon can exist in a form that is neutral but is both and electrophile and a nucleophile - or a diradical, depending on structure and conditions. **Carbenes** are high-energy intermediates are a very reactive. Their chemistry is also dominated by molecular orbital interactions. This subject is covered in chapter 15 but has a more detailed discussion in chapter 10.11.
+35. **One More Class Meeting**
+    - It's always good to have a spare. What do you want to do today?
+    
 ### Assignments
 
 Each lesson includes one or more assignments. **Check the page** for the assignment for this lesson. Check the **due date** and make a plan so that you can complete the assignment with time to spare.
 
-11. **Assignment \#11**
+10. **Assignment \#10**
     - This assignment is the **capstone** document of this course, the **personal exploration report**. This was started with assignment \#8, continued with assignment \#10, and is completed with this assignment. 
 
 <hr>

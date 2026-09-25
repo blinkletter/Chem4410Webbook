@@ -16,7 +16,7 @@ parts:
 #          - file: Info/PCRecipe
     - caption: Lessons
       chapters:
-        - file: Lessons/Lesson_01
+        - file: Lessons/Lesson_01.md
           sections:
           - file: Lessons/Lesson_01_Parts/part01.md        
           - file: Lessons/Lesson_01_Parts/part02.md        
@@ -25,17 +25,17 @@ parts:
           - file: Lessons/Lesson_01_Parts/part05.md        
           - file: Lessons/Lesson_01_Parts/assignment0.md
           - file: Lessons/Lesson_01_Parts/assignment1.md
-        - file: Lessons/Lesson_02
+        - file: Lessons/Lesson_02b.md
           sections:
           - file: Lessons/Lesson_02Parts/part06.md        
           - file: Lessons/Lesson_02Parts/part07.md        
           - file: Lessons/Lesson_02Parts/part08.md        
-          - file: Lessons/Lesson_02Parts/part09.md        
-          - file: Lessons/Lesson_02Parts/part10.md        
+          - file: Lessons/Lesson_02Parts/part09-10.md        
+#          - file: Lessons/Lesson_02Parts/part10.md        
           - file: Lessons/Lesson_02Parts/part11.md        
           - file: Lessons/Lesson_02Parts/assignment2.md
           - file: Lessons/Lesson_02Parts/assignment3.md
-        - file: Lessons/Lesson_03
+        - file: Lessons/Lesson_03.md
           sections:
           - file: Lessons/Lesson_03Parts/part12.md        
           - file: Lessons/Lesson_03Parts/part13.md        
@@ -45,37 +45,37 @@ parts:
           - file: Lessons/Lesson_03Parts/part17.md        
           - file: Lessons/Lesson_03Parts/assignment4.md
           - file: Lessons/Lesson_03Parts/assignment5.md
-        - file: Lessons/Lesson_04BreakWeek
-        - file: Lessons/Lesson_04
+        - file: Lessons/Lesson_04BreakWeek.md
+        - file: Lessons/Lesson_04.md
           sections:
+          - file: Lessons/Lesson_T1.md
           - file: Lessons/Lesson_04Parts/part18.md        
           - file: Lessons/Lesson_04Parts/part19.md        
-          - file: Lessons/Lesson_T1
-        - file: Lessons/Lesson_05
+          - file: Lessons/Lesson_04Parts/assignment6.md
+        - file: Lessons/Lesson_05.md
           sections:
           - file: Lessons/Lesson_05Parts/part21.md        
           - file: Lessons/Lesson_05Parts/part22.md        
           - file: Lessons/Lesson_05Parts/part23.md        
           - file: Lessons/Lesson_05Parts/part24.md        
           - file: Lessons/Lesson_05Parts/part25.md        
-          - file: Lessons/Lesson_05Parts/part26.md        
           - file: Lessons/Lesson_05Parts/assignment8.md
-        - file: Lessons/Lesson_06
+        - file: Lessons/Lesson_06.md
           sections:
-          - file: Lessons/Lesson_06Parts/part27.md        
-          - file: Lessons/Lesson_06Parts/part28.md        
+          - file: Lessons/Lesson_06Parts/part27b.md        
           - file: Lessons/Lesson_06Parts/part29.md        
           - file: Lessons/Lesson_06Parts/part30.md        
-          - file: Lessons/Lesson_T2
+          - file: Lessons/Lesson_T2.md
           - file: Lessons/Lesson_06Parts/part32.md        
           - file: Lessons/Lesson_06Parts/part33.md        
-          - file: Lessons/Lesson_04Parts/assignment6.md
           - file: Lessons/Lesson_06Parts/assignment10.md
-        - file: Lessons/Lesson_07
+        - file: Lessons/Lesson_07.md
           sections:
           - file: Lessons/Lesson_07Parts/part35.md        
           - file: Lessons/Lesson_07Parts/part36.md        
           - file: Lessons/Lesson_07Parts/part37.md        
+          - file: Lessons/Lesson_07Parts/part34.md        
+          - file: Lessons/Lesson_07Parts/part38extra.md        
           - file: Lessons/Lesson_07Parts/assignment11.md
     - caption: Extras
       chapters:

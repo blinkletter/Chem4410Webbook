@@ -1,4 +1,4 @@
-# 17: Investigating Reaction Mechanisms
+# 16: Investigating Reaction Mechanisms
 
 There are many ways to investigate reaction mechanism. Some are obvious: use reaction kinetics or examine the products produced. Others are clever: using competing intramolecular reactions as clocks to study radical reactions. Today, we will sample some of these methods.
 <hr>

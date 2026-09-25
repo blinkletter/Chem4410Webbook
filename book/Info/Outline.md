@@ -62,33 +62,33 @@ Below is a proposed plan for the course this year. **This will change** as I get
 
 |Lesson |Class  | Date     | Topic                                                 | Reading                  |
 | :----: | :----: | :----  | :---------------------------------------              | :----------------------- |
-| **1** | 1     | Sept. 9  | Welcome and Course Introduction, Review of structure and Sterics | Ch. 1, 2.1, 2.3   |
-|       | 2     | Sept. 11  | Review of structure and molecular orbitals                  | Ch. 1.2, 1.3, 2.4   |
-|       | 3     | Sept. 14  | Review of mechanisms and "arrow pushing"                    | Appendix 5          |
-|       | 4     | Sept. 16  | Review of transition state theory and reaction coordinate.  | Ch. 7.1, 7.2, 7.3  |
+| **1** | 1     | Sept. 9  | Welcome and Course Introduction | Ch. 1, 2.1, 2.3     |
+|       | 2     | Sept. 11 | Review of structure and molecular orbitals                  | Ch. 1.2, 1.3, 2.4   |
+|       | 3     | Sept. 14 | Review of mechanisms and "arrow pushing"                    | Appendix 5          |
+|       | 4     | Sept. 16 | Review of transition state theory and reaction coordinate  | Ch. 7.1, 7.2, 7.3  |
 |       | 5     | Sept. 18 | Review of energy surfaces.                                   | Ch. 7.8 \& Appendix 5 |
 | **2** | 6     | Sept. 21 | Bronsted acid/base theory and acidity functions              | Ch. 5.1, 5.2, 5.3   |
 |       | 7     | Sept. 23 | Structure effects on acid equilibrium                        | Ch. 5.4 |
-|    | 8    | Sept. 25 | Review of reaction kinetics and catalysis. Acid/base catalysis | Ch. 7.4, 7.5, 7.6, 9.1, 9.2 |
-|       | 9    | Oct. 2 |  Bronsted plots                                              | Ch. 8.5, 9.3             |
+|       | 8     | Sept. 25 | Review of reaction kinetics and acid/base catalysis       | Ch. 7.4, 7.5, 7.6, 9.1, 9.2 |
+|       | 9     | Sept. 28 |  Bronsted plots                                              | Ch. 8.5, 9.3             |
 |       |       | Sept. 30 | **No Class** National Reconciliation Day                   |                   |
-|       | 10     | Sept. 28 | pH-rate profiles                                           | Ch.  9.2, 9.3            |
-| **3** | 11    | Oct. 5 |  LFER: Inductive substituent effects.                        | Ch. 8.2, 8.3             |
+|       | 10    | Oct. 2   | pH-rate profiles                                           | Ch.  9.2, 9.3            |
+| **3** | 11    | Oct. 5   |  LFER: Inductive substituent effects.                        | Ch. 8.2, 8.3             |
 |       | 12    | Oct. 7   |  Resonance substituent effects                             |  Ch. 8.2, 8.3            |
-|       | 13    | Oct. 9  |  Interpreting Hammett plots                                 |  Ch. 8.2, 8.3            |
+|       | 13    | Oct. 9   |  Interpreting Hammett plots                                 |  Ch. 8.2, 8.3            |
 |       |       |          | **Break Week**                                             |                   |
-|       | 14    | Oct. 19   |  Steric substituent effects                               | Ch. 8.4                  |
-|       | 15    | Oct. 21   |  Solvent effects                                          | Ch. 8.4, 8.5, 8.6       |
+|       | 14    | Oct. 19  |  Steric substituent effects                               | Ch. 8.4                  |
+|       | 15    | Oct. 21  |  Solvent effects                                          | Ch. 8.4, 8.5, 8.6       |
 |       | 16    | Oct. 23  |  Investigating reaction mechansims                         | Ch. 8.7, 8.8            |
 |       | 17    | Oct. 26  |  **Test \#1**                                              | Classes 1 to 17        |
 | **4** | 18    | Oct. 28  |  Theory of isotope effects                                 | Ch. 8.1                |
 |       | 19    | Oct. 30  |  Interpreting isotope effects                              | Ch. 8.1                |
-| **5** | 20    | Nov. 2  |  Examples of S<sub>N</sub>1 \& S<sub>N</sub>2 substitution  | Ch. 11.1 to 11.5, lit.   |
-|       | 21    | Nov. 4  |  Examples of carbocation rearrangements                     | Ch. 11.8, lit.           |
-|       | 22    | Nov. 6  |  Examples of nucleophilic rearrangements                    | Ch. 11.9, 11.10, lit.    |
+| **5** | 20    | Nov. 2   |  Examples of S<sub>N</sub>1 \& S<sub>N</sub>2 substitution  | Ch. 11.1 to 11.5, lit.   |
+|       | 21    | Nov. 4   |  Examples of carbocation rearrangements                     | Ch. 11.8, lit.           |
+|       | 22    | Nov. 6   |  Examples of nucleophilic rearrangements                    | Ch. 11.9, 11.10, lit.    |
 |       | 23    | Nov. 9   |  Example exploration: Non-classical cations                | Ch. 11.5, 14.5, lit.     |
-|       |       | Nov. 11   |  **No Class** Remembrance Day                             |      |
-|       | 24    | Nov. 13   |  Example exploration: Non-classical cations               | Ch. 11.5, 14.5, lit.  |
+|       |       | Nov. 11  |  **No Class** Remembrance Day                             |      |
+|       | 24    | Nov. 13  |  Example exploration: Non-classical cations               | Ch. 11.5, 14.5, lit.  |
 |       |       |          |  **All topics below can be changed. What do you want?**    |               |
 | **6** | 25    | Nov. 16  |  Examples of pH-rate profile for aspirin                   | Ch. 9.1 to 9.3, 10.17, lit. |
 |       | 26    | Nov. 18  |  Examples of acetal formation/hydrolysis                   | Ch. 10.2, 10.12, lit.     |
@@ -123,7 +123,7 @@ Below is a plan for the **assessments** in this course. there are **assignments*
 |           | **Break Week** |             |                                                        |                  |
 |  **Test \#1** | Meeting 17 | Oct. 26         | Test \#1 covers meetings 1 to 16                       |  15\%            |
 | 5         | Meeting 19 | 9AM Oct. 30     | Transition state structure                             |  4\%             |
-| 6         | Meeting 24 | 9AM Nov. 13     | Data analysis and mechanism interpretation             |  4\%             |
+| 6         | Meeting 22 | 9AM Nov. 6     | Data analysis and mechanism interpretation             |  4\%             |
 | 7         | Meeting 26 | 9AM Nov. 18     | Personal exploration proposal                          |  4\%             |
 |  **Test \#2** | Meeting 28  | Nov. 23         | Test \#2 covers meetings 18 to 27                      |  15\%            |
 | 8         | Meeting 30 | 9AM Nov. 27     | Data analysis and mechanism interpretation             |  4\%             |

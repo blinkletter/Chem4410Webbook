@@ -1,4 +1,4 @@
-# 36: Pericyclic Rearrangements
+# 33: Pericyclic Rearrangements
 
 XXXX
 <hr>

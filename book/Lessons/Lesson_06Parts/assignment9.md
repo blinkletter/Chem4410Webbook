@@ -1,4 +1,4 @@
-# Assignment \#9: Mechanism Analysis
+# Assignment \#8: Mechanism Analysis
 
 The following assignment is to be submitted via moodle before the class meeting \#29.
 

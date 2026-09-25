@@ -1,4 +1,4 @@
-# 23: Solvolysis Example. Part 2
+# 22: Solvolysis Example. Part 2
 
 We will continue the exploration literature contribution featuring a solvolysis reaction. 
 
@@ -7,16 +7,18 @@ We will continue the exploration literature contribution featuring a solvolysis 
 
 ## Before
 
-Prepare for the class meeting by reading exploration that we introduced last calss and rereading the original paper. Be prepared to eplore the alternate interpretation fo the data explained in the document. The paper and the exploration that were presented in the previous class can be [found on that page](part22.md).
+Prepare for the class meeting by reading exploration that we introduced last class and rereading the original paper. Be prepared to eplore the alternate interpretation fo the data explained in the document. The paper and the exploration that were presented in the previous class can be [found on that page](part22.md).
 
 
 <hr>
 
 ## During
 
-We will again consider a mechanism example. This time we will use an example from the **[Reactions Involving Carbonyl Groups Worksheet](../Lesson_01/03_CarbonylProblemSet.pdf)** \[PDF\] from [class meeting #4](../Lesson_01_Parts/part04.md).
-
 We will discuss how the extended Hammett equation used by the authors to interpet the data could be replaced by an approach using the Yukawa-Tsuno equation.
+
+We will again consider a mechanism example from the early worksheets. This time we will use an example from the **[Reactions Involving Carbonyl Groups Worksheet](../Lesson_01/03_CarbonylProblemSet.pdf)** \[PDF\] from [class meeting #4](../Lesson_01_Parts/part04.md).
+
+
 
 <hr>
 

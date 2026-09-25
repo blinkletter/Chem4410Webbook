@@ -1,4 +1,4 @@
-# 32: Enzyme Catalysis
+# 29: Enzyme Catalysis
 
 Enzyme mechanism is one of the major interests of physical organic chemistry. We will explore the subject using the edample of *glycosidases*.
 <hr>

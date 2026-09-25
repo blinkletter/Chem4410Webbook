@@ -1,4 +1,4 @@
-# 16: Solvent Effects
+# 15: Solvent Effects
 
 we can examine the sensitivity of the reaction to **solvent polarity**, we can explore the sensitivity of the reaction to **changes in nucleophile** and leaving group nad we can score the sensitivity of the reaction to the **acid or base** involved. There are many other LFER schemes but we will stick to this short list.
 

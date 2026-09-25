@@ -1,8 +1,7 @@
-# Assignment \#9: Isotope Effects
+# Assignment \#6: Isotope Effects
 
-This assignment is to be **submitted** via moodle **before** the class meeting \#29. 
+This assignment is to be **submitted** via moodle **before** the class meeting \#22. 
 
-**A NOTE ON THE ASSIGNMENT SCHEDULE**: this is assignment 9 this year. It was meant to be assignment 6, but we delayed it due to the test. Also, assignment 7 will not occur. So this year we have two fewer assignments than initially planned. You have already completed assignments 1,2,3,4,5 and 8. What remains is this assignment (6 or 9, depending on how you count) and assignments 10 and 11. The final assignment 11 is the report for you personal literature exploration.
 
 ## The Instructions
 This section describes the **activity** that you are to perform for the assignment. Do the following&hellip;

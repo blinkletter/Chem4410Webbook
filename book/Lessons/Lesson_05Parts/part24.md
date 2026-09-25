@@ -1,4 +1,4 @@
-# 24: Non-Classical Cations
+# 23: Non-Classical Cations
 
 Today we will explore the idea of anchimeric assistance by $\sigma$-bonds. This was a very controversial idea in the history of physical organisc chemistry. 
 <hr>
