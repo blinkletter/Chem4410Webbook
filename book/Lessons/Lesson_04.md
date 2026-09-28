@@ -12,12 +12,12 @@ This lesson will take place over **two class meetings** and will begin with an *
 
 The information for each of these class meetings can be accessed directly by the links in the sidebar.
 
+17. **Test \#1**
+    - There will be two class tests. This is the first one.
 18. **Theory of Kinetic Isotope Effects**
     - The **theory of KIE** will be introduced. We will define primary and secondary effects and calculate the maximim observable kinetic isotope effects in both of these cases.
 19. **Applying Kinetic Isotope Effects**
     - Examples and brain teasers will be explored.
-20. **Test \#1**
-    - There will be two class tests. This is the first one.
 
 
 ### Assignments

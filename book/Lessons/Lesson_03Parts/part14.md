@@ -1,4 +1,4 @@
-# 14: Interpretting Hammett Plots
+# 13: Interpretting Hammett Plots
 
 Hammett plots are very informative and are easy to analyze. Even Microsoft Excel can fit a straight line. But there are cases when we do not have a straight line. When this happens I would argue that the Hammett plot is even more informative
 <hr>

@@ -1,4 +1,4 @@
-# 13: Resonance Effects
+# 12: Resonance Effects
 
 The Hammett substituent parameter, $\sigma$, was established in systems that did not include significant electron distribution by **resonance**. Direct **electron sharing by resonance** can have a **large effect** on the free-energy of a system. A series of substituent parameters that incorporate this effect, when present, have been established by **Brown and Okamoto** and others. We will introduce the $\sigma^+$ and $\sigma^-$ substituent parameters and the two-parameter system developed by **Yukawa and Tsuno** that allows for these parameters to be mixed with Hammett $\sigma$ values will be presented.
 

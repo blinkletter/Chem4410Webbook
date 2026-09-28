@@ -1,6 +1,6 @@
 # Assignment \#3: Brønsted Plots
 
-**Submit** your deliverable according to the instructions below as a PDF file **before** meeting \#12.
+**Submit** your deliverable according to the instructions below as a PDF file **before** meeting \#11.
 
 In this assignment you will analyze a **Brønsted plot** for an acid-catalyzed reaction and comment on the **experimental** work that provided the data. 
 

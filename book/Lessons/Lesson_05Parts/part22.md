@@ -1,4 +1,4 @@
-# 22: Solvolysis Example. Part 1
+# 21: Solvolysis Example. Part 1
 
 We will explore a literature contribution featuring a solvolysis reaction. Is it S<sub>N</sub>1 or S<sub>N</sub>2? Or perhaps both?
 <hr>

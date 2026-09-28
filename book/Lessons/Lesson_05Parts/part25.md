@@ -1,4 +1,4 @@
-# 25: Non-Classical cations - Experimental Evidence
+# 24: Non-Classical cations - Experimental Evidence
 
 Today we will **continue** to explore an exploration. I will present my approach to an exploration in the subject of **non-classical cations**. I will take you through my thinking as I constructed the project and you can see an **example** of the kind of effort that I am looking for in your final literature exploration project that will be due as assignment \#11 at the end of this course. 
 

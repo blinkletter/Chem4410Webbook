@@ -1,4 +1,4 @@
-# Assignment \#8: Personal Exploration Proposal
+# Assignment \#7: Personal Exploration Proposal
 
 The following assignment is to be **submitted** via moodle **before** the class meeting \#26.
 

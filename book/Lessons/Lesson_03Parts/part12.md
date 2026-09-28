@@ -1,4 +1,4 @@
-# 12: Substituent Effects
+# 11: Substituent Effects
 
 
 You may examine a proposed mechanism and observe a **transition state** that has significantly **more charge** at the reaction center than in the reactants. Modifying your reactants with **subtituents** that stabilize or destabilize that charge should **change the rate** of reaction. Can we make this into a useful quantitative method?

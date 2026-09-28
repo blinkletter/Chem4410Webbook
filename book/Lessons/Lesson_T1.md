@@ -1,8 +1,10 @@
-# 20: Test \#1
+# 17: Test \#1
 
 Test \#1 will provide a short **evaluation** of where we are in absorbing the **skills and methods** of physical organic chemistry.
 
-It will **examine** subjects presented in lessons 1, 2, 3 and 4 of this course and class meetings 1 to 19. The exact span covered **may change** depending on class cancellations or pace.
+Theb test is planned to **examine** subjects presented in lessons 1, 2, and 3 of this course and class meetings 1 to 17. The exact span covered **may change** depending on class cancellations or pace.
+
+See the **[syllabus](../Info/Course_Info.md)** and **[course outline](../Info/Outline.md)** for the dates.
 
 ## Previous Tests
 

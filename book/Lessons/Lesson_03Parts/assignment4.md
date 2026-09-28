@@ -1,6 +1,6 @@
 # Assignment \#4: Hammett Plots
 
-**Submit** your deliverable according to the instructions below as a PDF file **before** meeting \#15.
+**Submit** your deliverable according to the instructions below as a PDF file **before** meeting \#13.
 
 In this assignment you will analyze the data for several **Hammett plots**. 
 

@@ -1,4 +1,4 @@
-# 11: pH-Rate Profiles
+# 10: pH-Rate Profiles
 
 **General** and **specific** acid/base catalysis are important catalytic strategies employed by enzymes. We will use the field of bio-organic chemistry to **model** enzyme reactions and investigate these catalytic tools. We will demonstrate interactive *Python* to **explore the math** of the *pH* rate profile and **calculate** kinetic parameters for the reactions involved.
 

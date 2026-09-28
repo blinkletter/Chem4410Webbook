@@ -1,4 +1,4 @@
-# 30: Electrophilic Addition Reactions
+# 27: Electrophilic Addition Reactions
 
 Electrophiles can add to $\pi$-systems. A classic example is the addition of Br<sub>2</sub> or HBr to an alkene. We will explore a usefule reaction involving addition to an activated alkyne group.
 <hr>

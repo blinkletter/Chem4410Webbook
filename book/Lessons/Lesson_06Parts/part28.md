@@ -1,4 +1,4 @@
-# 28: Acid and Base Catalysis, Again
+# 26: Acid and Base Catalysis, Again
 
 We will consider an exploration of the pH-rate profile for Aspirin hydrolysis. 
 <hr>

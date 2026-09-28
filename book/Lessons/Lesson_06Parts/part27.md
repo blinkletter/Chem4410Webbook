@@ -1,4 +1,4 @@
-# 27: Acyl substitution
+# 25: Acyl substitution
 
 Acyl substitutions involve the exchange of a group attached to a carbonyl group. This can be a simple as the formation of an ester from an alcohol and an acyl chloride. Esters, amides, thioesters and many other gropups can be synthesized this way and their hydrolysis in water is a very imprtant subject in biochemistry, and therefore also an obsession of physical organic chemists.
 
