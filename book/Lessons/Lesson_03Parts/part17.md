@@ -16,9 +16,11 @@ Prepare for discussing reaction mechanisms and strategies for testing your hypot
 
 Today we will explore several experimental approaches to elucidating reaction mechanism. These include reaction kinetics, product analysis, trapping intermediates, stereochemical analysis, radical clocks, and more.
 
-In class we will be using the following handout to guide our discussion. You should **read the handout before the meeting and be prepared to participate** in the described activities and discussion.
+In class we will be using the following handouts to guide our discussion. You should **read both handouts before the meeting and be prepared to participate** in the described activities and discussion.
 
->  **Handout**: The handout that will be made available in class can also be accessed [**here**](../Lesson_03/4410_17-Handout.pdf) \[PDF\]. This will be given to students in class. There is no need to print a copy.
+>  **Handout \#1**: The handout that will be made available in class can also be accessed [**here**](../Lesson_03/4410_17-Handout.pdf) \[PDF\]. This will be given to students in class. There is no need to print a copy.
+  <br>
+  **Handout \#2**: Read the handout that focusses on the idea of radical clocks [**here**](../Lesson_03/19-radicalClocks.pdf) \[PDF\] meeting.
 
 <hr>
 
@@ -26,7 +28,7 @@ In class we will be using the following handout to guide our discussion. You sho
 
 After our class exercises, I highly recommend that you try the following problems
 
-- **Problems** : Attempt the following problems at the end of Ch. 8: problems 9, 22 and 28.
+- **Problems** : Attempt the following problems at the end of Ch. 8: problems 9, 22, 27 and 28.
 
 
 
