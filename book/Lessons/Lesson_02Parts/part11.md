@@ -68,3 +68,5 @@ The following ***Jupyter* notebooks** are made available below via *Google* Cola
     - [**Plotting recommendations - Part 2**](../../notebooks/M11_Plot_Recommendations/02_CurvePlots.ipynb) \[via Colab\] An example of a curve fit plot using LMFit. This notebook details how to use *LMFit* to perform a non-linear optimization to a model and how to present the plot with confidence and prediction intervals.
     - [**Plotting recommendations - Part 3**](../../notebooks/M11_Plot_Recommendations/03_TheRecipeForPlots.ipynb) \[via Colab\] This is a shorter example presenting a minimal workflow.
 
+- [thinking](../../notebooks/A03_Bronsted_Plot/A03_CalcsAndPlots.ipynb)
+
