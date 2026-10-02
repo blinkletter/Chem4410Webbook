@@ -19,6 +19,8 @@ In class we will be using the following handout to guide our discussion.
 
 >  **Handout**: The handout that will be made available in class can also be accessed [**here**](../Lesson_02/4410_Handout_11.pdf) \[PDF\]. This will be given to students in class. There is no need to print a copy.
 
+- **Presentation Slides**: These presenation slides can be accessed [**here**](../Lesson_02/Handout_11_Presentation.pdf) \[PDF\]. They present the problems from the handout with plots produced by using the *Python* notebooks (available in the Jupyter Notebook section below).
+
 <hr>
 
 ## After
