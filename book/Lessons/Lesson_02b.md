@@ -18,24 +18,24 @@ This lesson will take place over **six class meetings** and will begin with **re
 
 The information for each of these class meetings can be accessed directly by the links in the sidebar.
 
-6. **Review of Bronsted Theory**
+6. **[Review of Bronsted Theory](Lesson_02Parts/part06.md)**
     - We will review the math of **acid-base equilibria** and the Henderson-Hasselbalch equation. We will explore *pH* as a score of acidity of a system and extend the scale to infinity in both directions using other **acidity functions**.
-7. **Structure and *pK<sub>a</sub>***
+7. **[Structure and *pK<sub>a</sub>*](Lesson_02Parts/part07.md)**
     - The *pK<sub>a</sub>* value of a group can be altered by **changing the structure** of the molecule or the nature of the surrounding **environment**. Here is a first step in **correlating** structure with chemical properties.
-8. **Review of Reaction Kinetics \& Catalysis**
+8. **[Review of Reaction Kinetics \& Catalysis](Lesson_02Parts/part08.md)**
     - Rate laws allow us to predict reaction rates. We will explore **rate laws** involving catalysis.
-9. **Acid/base Catalysis and Brønsted Plots**
+9. **[Acid/base Catalysis and Brønsted Plots](Lesson_02Parts/part09.md)**
     - We will define the different **types of acid/base catalysis** and explore cases in reactions we already know. When **proton transfer** is involved in a reaction mechanism, we can identify if it occurs **before, during or after** the rate-determining step using a **Brønsted plot**. 
-10. **pH-Rate Profiles**
+10. **[pH-Rate Profiles](Lesson_02Parts/part10.md)**
     - The apparent **rate constant** of a reaction can **change with *pH*** if acid/base catalysis is involved. We can discern mechanistic information by ploting rate vs. *pH*.
 
 ### Assignments
 
 Each lesson includes one or more assignments. **Check the page** for each of the two assignments for this lesson. Check the **due dates** and make a plan so that you can complete each assignment with time to spare.
 
-2. **Assignment \#2**
+2. **[Assignment \#2](Lesson_02Parts/assignment2.md)**
     - This assignment will have you discuss the **core tenets** of physical organic chemistry.
-3. **Assignment \#3**
+3. **[Assignment \#3](Lesson_02Parts/assignment3.md)**
     - This assignment have you **interpret** a Brønsted plot. You will start with the rate **data** and will exercise your skills in **data analysis** as part of the exercise.
 
 <hr>

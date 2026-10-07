@@ -18,26 +18,26 @@ This lesson will take place over **six class meetings** and will begin with an *
 
 The information for each of these class meetings can be accessed directly by the links in the sidebar.
 
-11. **Substituent Effects**
+11. **[Substituent Effects](Lesson_03Parts/part11.md)**
     - The **theory of LFER** will be introduced. The **Hammett plot** relates the $K_a$ values of **substituted** benzoic acids to the equilibrium or rate constants of a reaction that involves a similar **substituted** benzene ring. This can be generalized to create a scoring system relates the effect of the **substituent** in benzoic acid to the effect of the same **substituent** in many other systems. This generalized **substituent** parameter is called the **Hammett substiuent parameter**, $\sigma$.
-12. **Resonance Effects**
+12. **[Resonance Effects](Lesson_03Parts/part12.md)**
     - The Hammett substituent parameter, $\sigma$, was established in systems that did not include significant electron distribution by resonance. Direct **electron sharing by resonance** can have a **large effect** on the free-energy of a system. A series of substituent parameters that incorporate this effect, when present, have been established by **Brown and Okamoto** and others. We will introduce the $\sigma^+$ and $\sigma^-$ substituent parameters and the two-parameter system developed by **Yukawa and Tsuno** that allows for these parameters to be mixed with Hammett $\sigma$ values will be presented.
-13. **Interpretting Hammett Plots**
+13. **[Interpretting Hammett Plots](Lesson_03Parts/part13.md)**
     - We will use these $\sigma$, $\sigma^+$ and $\sigma^-$ substituent parameters to investigate **more examples** of reaction mechanism. We will also explore how **linear** free-energy plots can be **curved** and how to **interpret** these interesting results when they are observed.
-14. **Steric Effects**
+14. **[Steric Effects](Lesson_03Parts/part14.md)**
     - Depending on the reaction, a substituent may affect the free-energy electronically through **inductive** ($\sigma$) and **resonance** ($\sigma^+$ \& $\sigma^-$) effects. Hammett cleverly designed his systems to avoid the possibility of significant steric interaction. However, **sterics** are often a factor in many systems. How can we score the effect of **steric** interference on the free-energy of a reaction? Toady we will introduce the work of **Taft and Ingold** and the $E_s$ **steric substituent parameter**.
-15. **Solvent Effects**
+15. **[Solvent Effect](Lesson_03Parts/part15.md)s**
     - There are many more things that can change the free-energy of a reaction. Differing the **solvent** can affect reactions where charge of polarity is changing. How can we score the effect of a **solvent** on a reaction. Today we will explore the work of **Grunwald and Winstein** and the **solvent** parameter, $Y$. We will also present to work of **Swain and Scott**, who explored the idea of a score for **nucleophilicity** of a solvent, and by extension, **nucleophiles** in general with the **nucleophilicity** parameter, $n$.
-16. **Investigating Reaction Mechanisms**
+16. **[Investigating Reaction Mechanisms](Lesson_03Parts/part16.md)**
     - We will **summarize** the **LFER** systems that we have explored and use them in some **examples** of **investigating** reaction mechanisms.
 
 ### Assignments
 
 Each lesson includes one or more assignments. **Check the page** for each of the two assignments for this lesson. Check the **due dates** and make a plan so that you can complete each assignment with time to spare.
 
-4. **Assignment \#4**
+4. **[Assignment \#4](Lesson_03Parts/assignment4.md)**
     - In this assignment you will create a **Hammett plot** using a data set and use the result to **support** your hypothesis for the given **reaction mechanism**.
-5. **Assignment \#5**
+5. **[Assignment \#5](Lesson_03Parts/assignment5.md)**
     - You will create an **LFER plot** using a system of your choosing (as permitted by the data) to support your hypothesis for a **reaction mechanism**.
 
 <hr>

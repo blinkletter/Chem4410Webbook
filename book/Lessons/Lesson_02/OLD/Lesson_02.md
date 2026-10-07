@@ -18,7 +18,7 @@ This lesson will take place over **six class meetings** and will begin with **re
 
 The information for each of these class meetings can be accessed directly by the links in the sidebar.
 
-6. **Review of Bronsted Theory**
+6. **[Review of Bronsted Theory](Lesson_02Parts/part06.md)**
     - We will review the math of **acid-base equilibria** and the Henderson-Hasselbalch equation. We will explore *pH* as a score of acidity of a system and extend the scale to infinity in both directions using other **acidity functions**.
 7. **Structure and *pK<sub>a</sub>***
     - The *pK<sub>a</sub>* value of a group can be altered by **changing the structure** of the molecule or the nature of the surrounding **environment**. Here is a first step in **correlating** structure with chemical properties.
@@ -35,7 +35,7 @@ The information for each of these class meetings can be accessed directly by the
 
 Each lesson includes one or more assignments. **Check the page** for each of the two assignments for this lesson. Check the **due dates** and make a plan so that you can complete each assignment with time to spare.
 
-2. **Assignment \#2**
+2. **[Assignment \#2](Lesson_02Parts/assignment2.md)**
     - This assignment will have you discuss the **core tenets** of physical organic chemistry.
 3. **Assignment \#3**
     - This assignment have you **interpret** a Brønsted plot. You will start with the rate **data** and will exercise your skills in **data analysis** as part of the exercise.
@@ -121,11 +121,11 @@ Below are some **websites** that I have made over the years **to help** my stude
 - **[Steal This Code](https://blinkletter.github.io/StealThisCode/start.html)** \[Web via GitHub \& Colab\] This is another website that I created to present more examples of using *Python* to perform calculations and data analysis. Steal it all.
 
 
-You do not have to learn *Python* -- but you do need to learn what it can **make possible**. You will then learn **what you need when you need** it as you progress in you career.
+You do not have to learn *Python* -- but you do need to learn what it can **make possible**. You will then learn **what you need when you need it** as you progress in you career.
 
 ###  Truth and Reconcilliation Day
 
-This year it will impact our class as it falls on a Wednesday,  however **Truth & Reconcilliation Day** is not a holiday. Time to do the work.
+This year, it will impact our class as it falls on a Wednesday,  however **Truth & Reconcilliation Day** is not a holiday. Time to do the work.
 
 I suggest that you complete the following reading and think about how our shared past affects our present and our future.
 

@@ -4,7 +4,7 @@ Test \#2 will provide a short **evaluation** of where we are in absorbing the **
 
 It will **examine** understanding of mechanism and how we analysis these mechanisms. 
 
-See the **[syllabus](../Info/Course_Info.md)** and **[course outline](../Info/Outline.md)** for the dates.
+See the **[syllabus](../../Info/Course_Info.md)** and **[course outline](../../Info/Outline.md)** for the dates.
 
 
 ## Previous Tests

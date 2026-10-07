@@ -1,50 +1,53 @@
-# 20: S<sub>N</sub>1 \& S<sub>N</sub>2 Substitutions
+# 21: Solvolysis Example. Part 1
 
-Is there anything simpler than S<sub>N</sub>1 and S<sub>N</sub>2 mechanisms? Wait! They're not so simple. Today we will review these classic mechamisms and point out the edge cases that make physical organic chemistry so much fun.
+We will explore a literature contribution featuring a solvolysis reaction. Is it S<sub>N</sub>1 or S<sub>N</sub>2? Or perhaps both?
 <hr>
 
 ## Before
 
-For the class meetings in this lesson we should all be reading chapter 11 of the textbook. Please read the whole chapter even though we will only be focussing on selected topics. The sections of chapter 11 that this meeting will explore are given below, but the whole chapter applies. You will gain a deeper insight into all the topics of your third-year chemistry courses by surveying the whole chapter.
+%> **Assignment \#6**, the **assignment** from lesson \#4, is **due before class**.  So be sure to have uploaded your PDF file to moodle. See the **assignment \#6** page in **lesson \#4** for instructions.
 
-> **Read** Chapter 11.5  <br>
-> **Problems** : Attempt the following problems at the end of Ch. 11: 2, 5, 32, 51
+Prepare for this class meeting by reading the following textbook sections and attampting the suggested problems. As stated before, please read all of chapter 11 over the course of this lesson&hellip; 
 
-A note on reading the textbook: We are now into the phase of the course where we will be exploring literature examples of reaction mechanisms. I cannot give as much time to the entirety of the textbook readings that are suggested. I will be relying on you to read chapter 11.5. 
+**Read** ``Changes in mechanism and transition state structure for solvolysis reactions of ring substituted benzyl chlorides in aqueous solution.''
+P.E. Yeary, J.P. Richard, *J. Phys. Org. Chem.*, **2024**, *37*, e4600. [https://doi.org/10.1002/poc.4600](https://doi.org/10.1002/poc.4600)
+
+**Read** my exploration titled "[**Solvolysis of Benzyl Chloride -- Again**](../Lesson_05/E1-Exploration_1.pdf)" \[PDF\]. This is my own exploration of the paper by Yeary and Richard. 
+
 <hr>
 
 ## During
 
-Today we explore an example of a mechanism (see problem #10 of the **[Reactions Involving Cations Worksheet](../Lesson_01/01_CationProblemSet.pdf) \[PDF\])** from [class meeting #4](../Lesson_01_Parts/part04.md).
+Today we explore an example of a mechanism from the **[Reactions Involving Anions Worksheet](../Lesson_01/02_AnionsProblemSet.pdf) \[PDF\])** from [class meeting #4](../Lesson_01_Parts/part04.md).
 
-We will define S<sub>N</sub>1 and S<sub>N</sub>2 mechanisms and discuss the consequences of ion pairs, solvent cages and internal return reactions in the S<sub>N</sub>1 system. 
-
-
+We will be exploring the paper described above. Today we will focus on the results presented by the authors and how they were interpretted. Do you agree with the use of the extended Hammett equation? Is there a more familiar way to interpret the data?
 
 <hr>
 
 ## After
 
-You should [look ahead](part22.md) to the material for the next meeting. We will be discussing a paper with an eye to setting an example for your own personal literature exploration.
-
-After our class exercises, I highly recommend that you try the following problems&hellip;
-
-- **Problems** : Attempt the following problems at the end of Ch. 11: 11, 45
-
-Be sure to finish reading chapter 11.5 and then start reading the rest of chapter 11.
-
-%Now is the time to start working on the first **assignment** for this lesson. 
-%
-%> **Assignment #7**: Go to the assignment \#7 page for this lesson and follow the instructions. This assignment is due before the start of meeting \#24.
+After the class you should keep reading more of chapter 11 of the textbook. 
 
 <hr>
 
 ## Learning Goals
 After participating in the before, during and after of this class meeting you will have explored the following learning goals of lesson \#5&hellip;
 
-- Have seen that the idea of S<sub>N</sub>1 and S<sub>N</sub>2 mechanism can be expressed as a continuum of possibilities.
-- Understand the nature of a solvent cage, ion pairs and solvent-separated ion pairs and the consequences of these intermediates in interpreting evidence of mechanism.
-- Have observed further examples of isotope effects, Hammett plots, solvent effects and other concepts from chapter 8 of the textbook.
+- Have practiced interpretting the writing in the literature
+- Have explored some other ways to describe substituent constants such as $\sigma_n$ and $\sigma_r$
+- Have been introduced to some other LFER systems. In this case, the extended Hammett equation.
 
+<hr>
 
+## Resources
+
+Below are presented *Python* notebooks containing the code used in the data analysis and plots presented in the exploration of the paper.
+
+### Jupyter Notebooks
+
+The following notebooks we made to create the plots in the exploration and are available via google colab.
+
+- [**Notebook for Reproducing the Authors' Plots**](../../notebooks/M22_Yeary2024_BnCl_Solvolysis/E1_benzylchloride_Paper.ipynb)
+- [**Notebook for My own Analysis of the Authors' Data**](../../notebooks/M22_Yeary2024_BnCl_Solvolysis/E1_benzylchloride.ipynb)
+- [**Notebook for Spectra**](../../notebooks/M22_Yeary2024_BnCl_Solvolysis/spectra.ipynb)
 

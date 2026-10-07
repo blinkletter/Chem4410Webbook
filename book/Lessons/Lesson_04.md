@@ -12,11 +12,11 @@ This lesson will take place over **two class meetings** and will begin with an *
 
 The information for each of these class meetings can be accessed directly by the links in the sidebar.
 
-17. **Test \#1**
+17. **[Test \#1](Lesson_04Parts/part17_T1.md)**
     - There will be two class tests. This is the first one.
-18. **Theory of Kinetic Isotope Effects**
+18. **[Theory of Kinetic Isotope Effects](Lesson_04Parts/part18.md)**
     - The **theory of KIE** will be introduced. We will define primary and secondary effects and calculate the maximim observable kinetic isotope effects in both of these cases.
-19. **Applying Kinetic Isotope Effects**
+19. **[Applying Kinetic Isotope Effects](Lesson_04Parts/part19.md)**
     - Examples and brain teasers will be explored.
 
 
@@ -26,7 +26,7 @@ Each lesson includes one or more assignments. **Check the page** for each of the
 
 In this lesson, the assignment is **due after the test**. Don't forget about it.
 
-6. **Assignment \#6**
+6. **[Assignment \#6](Lesson_04Parts/assignment6.md)**
     - You will **interpret** a set of data, **propose** a reaction mechanism for a given reaction, and **explain** how the experimental data backs up your conclusion. The data will include **kinetic isotope effects** and perhaps the results of a few more experiments.
 
 ## Learning Goals

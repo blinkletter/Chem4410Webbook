@@ -1,65 +1,44 @@
-# 11: Substituent Effects
+# 12: Resonance Effects
 
-
-You may examine a proposed mechanism and observe a **transition state** that has significantly **more charge** at the reaction center than in the reactants. Modifying your reactants with **subtituents** that stabilize or destabilize that charge should **change the rate** of reaction. Can we make this into a useful quantitative method?
-
-We must develop a standard **scoring system** for the electron-donating or withdrawing effect of the substituent. How can you score the **electronic effect** of a **substituent** in a system? First, find a **reference** system where the only effect is electronic. **Louis Hammett** used *meta* and *para*-substituted **benzoic acids** and created a series of **substituent parameters**. These evolved into the substituent parameters we use today: &sigma;<sub>m</sub>, &sigma;<sub>p</sub>, &sigma;<sup>+</sup>, \& &sigma;<sup>-</sup>.
-
-Today, we will explore how we can use these scores for **electronic effects** in benzoic acids to measure the **sensitivity** of a transtion state to changes in electron density. This method has grown into the general strategy of **linear free-energy relationships**. One system is used to create a score the the **substituent effect** and then those scores are used to evaluate the magnitude and direction of the effect in another system. We can create scores for **inductive** and **resonance** electronic effects, electrical **field** effects, **size**, solvent **polarity**, **nucleophilicity** and much more. This information will enables us to test our hypothesis for the **mechanism** in many cases.
+The Hammett substituent parameter, $\sigma$, was established in systems that did not include significant electron distribution by **resonance**. Direct **electron sharing by resonance** can have a **large effect** on the free-energy of a system. A series of substituent parameters that incorporate this effect, when present, have been established by **Brown and Okamoto** and others. We will introduce the $\sigma^+$ and $\sigma^-$ substituent parameters and the two-parameter system developed by **Yukawa and Tsuno** that allows for these parameters to be mixed with Hammett $\sigma$ values will be presented.
 
 <hr>
 
 ## Before
-> **Assignment \#3**, the second **assignment** from lesson \#2, is **due before class**.  So be sure to have uploaded your PDF file to moodle. See the **assignment \#3** page in **lesson \#2** for instructions.
 
-Prepare for exploring the Hammett equation by reading the following.
+Prepare for the class discussion. Read the following textbook chapters. 
 
-> **Read** Chapter 8.2, 8.3 and 8.6 <br>
-- **Review** Chapter 8.5
+> **Read** Chapter 8.2 \& 8.3
+
+Even though I will have recommended just about every problem at the end of chapter 8 to you by the end of lesson \#3, there are no problems presented by the authors that apply to this class meeting. So please **read the class meeting handout** before our meeting for problems that we are considering in class.
 
 <hr>
 
 ## During
-The assignment that was due today was your first example of a **linear free-energy relationship**. Today we will introduce the gold standard for LFER, the **Hammett plot**.
 
 In class we will be using the following handout to guide our discussion. You should **read the handout before the meeting and be prepared to participate** in the described activities and discussion.
 
->  **Handout**: The handout that will be made available in class can also be accessed [**here**](../Lesson_03/4410_Handout_12.pdf) \[PDF\]. This will be given to students in class. There is no need to print a copy.
+>  **Handout**: The handout that will be made available in class can also be accessed [**here**](../Lesson_03/4410_13_Handout.pdf) \[PDF\]. This will be given to students in class. There is no need to print a copy.
 
-Data in this handout is plotted and discussed in the [**data plots handout**](../Lesson_03/4410_Handout_12-comments.pdf) \[PDF\]. This document will be a useful resource as you review what we presented in class today.
+One of the exercises today is to replot data from the previous class meeting. These plots are presented in the [**data plots handout #2**](../Lesson_03/4410_13_Handout_Comments.pdf) \[PDF\]. This document will be a useful resource as you review what we presented in class today.
 
 <hr>
 
 ## After
 
-After our class exercises, I highly recommend that you try the following problems.
+Now that we have explored resonance contributions to substituent effects, attempt the following problems in the document linked below.
 
-> **Attempt** the following problems from Ch. 8: 11, 14 & 18
-
-Now is the time to start working on the first **assignment** for this lesson. 
-
-> **Assignment #4**: Go to the assignment \#4 page for this lesson and follow the instructions. This assignment is due before the start of meeting \#15.
+- **Problems** Attempt problem 24 from chapter 8 of the textbook. Consider how what we discussed today is applicable.
 
 <hr>
 
 ## Learning Goals
 After participating in the before, during and after of this class meeting you will have explored the following learning goals of lesson \#3&hellip;
 
-- have reviewed the concepts of reaction coordinates, transition states and
-More O’Ferrall-Jencks plots.
-- have reviewed how substituents affect the energy of high-energy inter-
-mediates such as carbocations and anions.
-- have considered how substituents affect the energy of ground start mole-
-cules such as carboxylate or ammonium groups.
-- understand how Hammett used the benzoic acid equilibrium as the stand-
-ard to create a scoring system to determine substituent constants that are
-directly correlated to free energy differences.
-- be able to apply the Hammett equation to determine the reaction constant
-and be able to interpret the nature of the intermediate or transition state
-in a reaction using this value.
-- **Computer Skill**: be able to use an interactive Python notebook to import,
-clean and manipulate date and then perform and document curve fits of
-the data to mathematical models.
+- Understand how the **Brown-Okamoto** substituent parameters, $\sigma^+$ \& $\sigma^-$ were determined and how the **Yukawa-Tsuno** "r" value is used to interpret cases of partial resonance effect.
+- Correctly use the **Brown-Okamoto** parameters ($\sigma^+$, $\sigma^+$) when required and be able to create, line fit and interpret a **Yukawa-Tsuno** plot.
+- Be able to **plot** data, obtain optimized **fit** data for your model and **use** the results.
+
 
 <hr>
 
@@ -74,8 +53,4 @@ The following **resources** may be useful.
 
 The following notebooks present the code and data analysis for the handout discussion document described above.
 
-- [**Figures 1 \& 3**](../../notebooks/M12_Handout_Comments/Table1and2_ClassExamples.ipynb): Plots of $log{k_{obs}}$ vs $\Delta pK_a$ or $\sigma$.
-- [**Figure 4**](../../notebooks/M12_Handout_Comments/Table_4_Plots.ipynb): Hammett plots for hydrolysis of benzyl chloride in basic and acidic conditions.
-- [**Figure 6**](../../notebooks/M12_Handout_Comments/Table_5_Plots.ipynb): Hammett plots for hydrolysis of benzyl chloride in different solvent mixtures and temperatures.
-- [**Figure 7:**](../../notebooks/M12_Handout_Comments/Table_6_Plots.ipynb): Hammett plots for solvolysis of diphenylmethylene chloride.
-- [**Figure 9**](../../notebooks/M12_Handout_Comments/Table_7_Plots.ipynb): : Hammett plots for solvolysis of trityl acetate.
+[**Figures 3, 5, 6, \& 7**](../../notebooks/M12_Handout_Comments/Table_7_Plots_with_YukawaTsuno.ipynb): Hammett plots for solvolysis of trityl acetate using the Brown-Okamoto $\sigma^+$ parameters and the Yukawa-Tsuno method.
