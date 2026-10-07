@@ -42,7 +42,8 @@ After our class exercises, I highly recommend that you try the following problem
 
 Now is the time to start working on the next **assignment** for this lesson. I hope you have been **reading** and preparing to start this assignment over the past few weeks.
 
-> **Assignment #8**: Go to the assignment \#8 page for this lesson and follow the instructions. This assignment is due before the start of meeting \#26. **Read the instructions carefully**. There is a **presentation** that is part of this assignment.
+> **[Assignment #7](../Lesson_05Parts/assignment7.md)**: Go to the assignment \#7 page for this lesson and follow the instructions. 
+% This assignment is due before the start of meeting \#26. **Read the instructions carefully**. There is a **presentation** that is part of this assignment.
 
 ### The Example Assignment
 

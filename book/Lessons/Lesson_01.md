@@ -24,15 +24,15 @@ This lesson will take place over **five class meetings** and will focus on **rev
 
 The information for each of these **class meetings** can be accessed directly by the links in the sidebar.
 
-1. **Welcome and Introduction** 
+1. **[Welcome and Introduction](Lesson_01Parts/part01.md)** 
     - This class will introduce you to the structure of the course and ask the question "What is stability?" using a **review** of conformational analysis as the example.
-2. **Structure and Molecular Orbitals** 
+2. **[Structure and Molecular Orbitals](Lesson_01Parts/part02.md)** 
     - What is the "Force" that binds the galaxy together? In organic chemistry, we would say "covalent bonds!" We will **review** how to describe bonding using molecular orbital diagrams.
-3. **Mechanisms and Arrow Pushing**
+3. **[Mechanisms and Arrow Pushing](Lesson_01Parts/part03.md)**
     - We will **review** the rules of "arrow pushing" in describing reaction mechanisms.
-4. **More Mechanisms**
+4. **[More Mechanism](Lesson_01Parts/part04.md)s**
     - We will continue to **review** proposing reasonable reaction mechanisms for familiar reactions. Correct instincts for interpreting **reaction mechanisms** will be essential. Keep **practicing** after this class. Never stop.
-5. **Transition States \& Energy Surfaces**.
+5. **[Transition States \& Energy Surfaces](Lesson_01Parts/part05.md)**.
     - A **review** of transition state theory and reaction coordinates. Starting materials, transition states and products can all be placed in a **diagram** that describes the **energy** as bonding changes in a reaction. Changes in **structure** affects **energy**. This is the central idea of Physical Organic Chemistry. 
 
 ### Assignments
@@ -45,9 +45,9 @@ The **Moodle page** will have a link for uploading each assignment. **Due dates*
 ```
 
 
-0. **Assignment \#0: A First Self Assessment**
+0. **[Assignment \#0: A First Self Assessment](Lesson_01Parts/assignment0.md)**
     - You will read a very short paper and assess what you need to learn to fully understand, analyze and criticize the work.
-1. **Assignment \#1: Mechanism Review**
+1. **[Assignment \#1: Mechanism Review](Lesson_01Parts/assignment1.md)**
     - This assignment will **review** organic chemistry skills.
 
 ```{admonition} Why did the List Start at Zero?

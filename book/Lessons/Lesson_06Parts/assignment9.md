@@ -1,37 +1,32 @@
-# Assignment \#8: Mechanism Analysis
+# Assignment \#9: First Draft
 
-The following assignment is to be submitted via moodle before the class meeting \#29.
+The following assignment is to be submitted via moodle before the class meeting \#33 (Monday, Feb. 24<sup>th</sup>).
 
 ## The Activity
-This section describes the **activity** that you are to perform for the assignment. Do the following&hellip;
+You have been working on your personal literature exploration. Two weeks ago you presented your initial starting point. Now you will show where you are at now
 
-> **Do** An exercise in physical organic chemistry TBA
+> **Do** take your work so far and produce a first draft of your personal literature exploration.
 
 ## The Deliverable
-> After you have complete the assignment described above you will submit a **report** based on XXXX.
-```{margin} Grading
-Half of the grade will be for your **answer** and half will evaluate how neat, **clear and professional** you are in communicating your answer. Feel free to use a chemical drawing program. Take pride in your work.
-```
-XXXX
 
+> After making progress in your final project above you will submit your work as a **preliminary draft**. Hand in what you have so far.
 
+### Grading
 
-## Grading
-
-Grading **written creative work** like this is always a **subjective** exercise. I don't deduct marks for errors, I give marks for **excellence**. Half of the grade will be for your **writing** and half will evaluate how neat, **clear and professional** you are in communicating your answer. Feel free to use a chemical drawing program and appropriate tools to generate plots and diagrams. Take pride in your work.
+I'm not looking for completion or perfection. Your document should show substantial progress and reveal the questions that you have identified and your progress in answering them. It should be a first draft with most of your ideas present.  
 
 ### Rubric
 
-All the points in the **general rubric** presented in the instructions for **assignment \#1** apply. The document must have a **professional** level of quality for full marks.
+Its difficult to make a rubric for this assignment. I am looking for a **body of work** where the line of reasoning is established and about 80% of the data **analysis and discussion** is present. 
 
-XXXX The report **must contain** all the elements described in the **instructions** above.
+I will do my best to get **comments** back to students for Friday. Don't wait for me. **Keep working** and making progress and then consider my comments when you get them.
 
 <hr>
 
 ## Learning Goals
 After completing this assignment you will have explored the following learning goals of lesson \#3&hellip;
 
-- XXXX
+- That setting midpoint **goals** can help you **stay on track** in a larger project.
 - **Practiced** your **writing** skills and your **chemical communication** skills.
 
 <hr>

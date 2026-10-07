@@ -18,13 +18,13 @@ parts:
       chapters:
         - file: Lessons/Lesson_01.md
           sections:
-          - file: Lessons/Lesson_01_Parts/part01.md        
-          - file: Lessons/Lesson_01_Parts/part02.md        
-          - file: Lessons/Lesson_01_Parts/part03.md        
-          - file: Lessons/Lesson_01_Parts/part04.md        
-          - file: Lessons/Lesson_01_Parts/part05.md        
-          - file: Lessons/Lesson_01_Parts/assignment0.md
-          - file: Lessons/Lesson_01_Parts/assignment1.md
+          - file: Lessons/Lesson_01Parts/part01.md        
+          - file: Lessons/Lesson_01Parts/part02.md        
+          - file: Lessons/Lesson_01Parts/part03.md        
+          - file: Lessons/Lesson_01Parts/part04.md        
+          - file: Lessons/Lesson_01Parts/part05.md        
+          - file: Lessons/Lesson_01Parts/assignment0.md
+          - file: Lessons/Lesson_01Parts/assignment1.md
         - file: Lessons/Lesson_02.md
           sections:
           - file: Lessons/Lesson_02Parts/part06.md        
@@ -58,7 +58,7 @@ parts:
           - file: Lessons/Lesson_05Parts/part22.md        
           - file: Lessons/Lesson_05Parts/part23.md        
           - file: Lessons/Lesson_05Parts/part24.md        
-          - file: Lessons/Lesson_05Parts/assignment8.md
+          - file: Lessons/Lesson_05Parts/assignment7.md
         - file: Lessons/Lesson_06.md
           sections:
           - file: Lessons/Lesson_06Parts/part25.md        
@@ -67,15 +67,16 @@ parts:
           - file: Lessons/Lesson_06Parts/part28_T2.md
           - file: Lessons/Lesson_06Parts/part29.md        
           - file: Lessons/Lesson_06Parts/part30.md        
-          - file: Lessons/Lesson_06Parts/assignment10.md
+          - file: Lessons/Lesson_06Parts/assignment8.md
+          - file: Lessons/Lesson_06Parts/assignment9.md
         - file: Lessons/Lesson_07.md
           sections:
-          - file: Lessons/Lesson_07Parts/part35.md        
-          - file: Lessons/Lesson_07Parts/part36.md        
-          - file: Lessons/Lesson_07Parts/part37.md        
+          - file: Lessons/Lesson_07Parts/part31.md        
+          - file: Lessons/Lesson_07Parts/part32.md        
+          - file: Lessons/Lesson_07Parts/part33.md        
           - file: Lessons/Lesson_07Parts/part34.md        
-          - file: Lessons/Lesson_07Parts/part38extra.md        
-          - file: Lessons/Lesson_07Parts/assignment11.md
+          - file: Lessons/Lesson_07Parts/part35extra.md        
+          - file: Lessons/Lesson_07Parts/assignment10.md
     - caption: Extras
       chapters:
         - file: Lessons/Python.md

@@ -8,7 +8,7 @@ Acetals and hemiacetals are a very important group in organic chemistry. We see 
 Prepare for exploring wierd Hammett plots by reading the following&hellip;
 
 
-> **Assignment \#9** is **due before class**.  So be sure to have uploaded your PDF file to moodle. See the **assignment \#9** page in **lesson \#6** for instructions. 
+> **[Assignment \#8](../Lesson_06Parts/assignment8.md)** is **due before class**.  So be sure to have uploaded your PDF file to moodle. See the **assignment \#9** page in **lesson \#6** for instructions. 
 
 > **Read** Chapter 10.2, 10.12 and review Chapter 9.3  <br>
 > **Problems** : Attempt the following problems at the end of **Ch. 10**: 23, 24, 38, 41 \& 42
