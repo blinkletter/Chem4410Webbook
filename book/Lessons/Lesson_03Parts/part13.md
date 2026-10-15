@@ -5,6 +5,9 @@ Hammett plots are very informative and are easy to analyze. Even Microsoft Excel
 
 ## Before
 
+> **Assignment \#4**, the first **assignment** from lesson \#3, is **due before class**.  So be sure to have uploaded your PDF file to moodle. See the **[Assignment \#4](../Lesson_03Parts/assignment4.md)** page in **lesson \#3** for instructions. 
+
+
 Prepare for exploring wierd Hammett plots by reading the following.
 
 > **Read** Chapter 8.4, 8.6 and 8.7  <br>

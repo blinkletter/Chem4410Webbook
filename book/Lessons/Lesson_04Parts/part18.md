@@ -5,8 +5,6 @@ Today we will introduce kinetic isotope effects.
 
 ## Before
 
-> **Assignment \#5**, the second **assignment** from lesson \#3, is **due before class**.  So be sure to have uploaded your PDF file to moodle. See the **assignment \#5** page in **lesson \#3** for instructions. 
-
 Prepare for discussing the theory of **kinetic isotope effects** by doing the following.
 
 > **Read** Chapter 8.1  <br>

@@ -6,6 +6,10 @@ Examples of kinetic isotope effects and their use in investigating mechanism wil
 
 ## Before
 
+> **Assignment \#5**, the second **assignment** from lesson \#3, is **due before class**.  So be sure to have uploaded your PDF file to moodle. See the **[Assignment \#5](../Lesson_03Parts/assignment5.md)** page in **lesson \#3** for instructions. 
+
+
+
 Prepare for discussing examples of **kinetic isotope effects** by doing the following.
 
 > **Read** Chapter 8.1  <br>
