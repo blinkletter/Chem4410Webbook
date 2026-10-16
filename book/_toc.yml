@@ -39,12 +39,12 @@ parts:
           - file: Lessons/Lesson_03Parts/part11.md        
           - file: Lessons/Lesson_03Parts/part12.md        
           - file: Lessons/Lesson_03Parts/part13.md        
+          - file: Lessons/Lesson_04BreakWeek.md
           - file: Lessons/Lesson_03Parts/part14.md        
           - file: Lessons/Lesson_03Parts/part15.md        
           - file: Lessons/Lesson_03Parts/part16.md        
           - file: Lessons/Lesson_03Parts/assignment4.md
           - file: Lessons/Lesson_03Parts/assignment5.md
-        - file: Lessons/Lesson_04BreakWeek.md
         - file: Lessons/Lesson_04.md
           sections:
           - file: Lessons/Lesson_04Parts/part17_T1.md

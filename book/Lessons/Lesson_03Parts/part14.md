@@ -34,7 +34,7 @@ After our class exercises, I highly recommend that you try the following problem
 
 Now is the time to start working on the second **assignment** for this lesson. 
 
-> **Assignment \#5**: Go to the **[Assignment \#5](Lesson_03Parts/assignment5.md)** page for this lesson and follow the instructions. This assignment is due before the start of meeting \#19.
+> **Assignment \#5**: Go to the **[Assignment \#5](Lesson_03Parts/assignment5.md)** page for this lesson and follow the instructions. This assignment is due before the start of meeting \#19. (That is after the test.)
 
 **ALERT! Test \#1** is coming up fast. It will take place during class meeting \#17, **one week** from this meeting. See the **[page for Test \#1](../Lesson_04Parts/part17_T1.md)** for more information.
 
