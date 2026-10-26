@@ -8,7 +8,7 @@ This web-book document that you are reading **is not** the textbook. The textboo
 
 "[Modern Physical Organic Chemistry](https://mitpress.mit.edu/9781891389313/modern-physical-organic-chemistry/)" by Eric V. Anslyn and Dennis A. Dougherty. University Science Books.
 
-**This book is tour de force**. I encourage you to buy the textbook and **keep it** for life. It covers the basics of physical organic chemistry and then has chapters that **can be applied in just about any field of chemistry**. Supramolecular chemistry? Check. Conductive polymers? Check. Theoretical chemistry? Check. The textbook is available in the book store and has an ebook option available from the publisher. **All chapters and problem assignments will refer to this book**.
+**This textbook is tour de force**. I encourage you to buy the textbook and **keep it** for life. It covers the basics of physical organic chemistry and then has chapters that **can be applied in just about any field of chemistry**. Supramolecular chemistry? Check. Conductive polymers? Check. Theoretical chemistry? Check. The textbook is available in the book store and has an ebook option available from the publisher. **All chapters and problem assignments will refer to this book**.
 
 The textbook for this course was **written** by two emminent physical organic chemists and then **peer reviewed** and corrected by dozens more. Look around you -- how many students are in this class? Its not 200. I guarantee you that **no one is making money** from this book. If we do not support efforts like this, then we may never see a second edition. These guys are far too old for a *Patreon* account. Please **do not pirate** textbooks. I know that downloading is easy to do, but someday you may be writing a textbook of your own. Start building your **karma** now.
 
@@ -42,11 +42,8 @@ Below is a **list** of **software** that will be **available** on many campus co
 
 
 ## Your Time
-```{margin} 
-You can get your money back, you cannot get your time back.
-```
 
 This course will require your time. Only you can explore the concepts of the lessons by **investing your time**. You will need **time to read** the textbook and consider the suggested problems; **time to struggle** with using the software tools as we explore data analysis and computational chemistry; **time to write** reports and prepare presentations; and **time to relax**.
 
-
+Remember, you can get your money back, but you cannot get your time back. **Time is the most precious resource**.
 
