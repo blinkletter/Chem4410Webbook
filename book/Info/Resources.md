@@ -41,10 +41,11 @@ Below is a **list** of **software** that will be **available** on many campus co
     - We will be using ***Python*** for our data anaysis and plotting. You will see that it is a powerful tool that you will be using for the forseeable future in your scientific career. We will use python via the ***Google Colab*** website. There is no need to install it.  
 
 
+## Your Time
 ```{margin} 
 You can get your money back, you cannot get your time back.
 ```
-## Your Time
+
 This course will require your time. Only you can explore the concepts of the lessons by **investing your time**. You will need **time to read** the textbook and consider the suggested problems; **time to struggle** with using the software tools as we explore data analysis and computational chemistry; **time to write** reports and prepare presentations; and **time to relax**.
 
 
