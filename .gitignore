@@ -531,3 +531,6 @@ TSWLatexianTemp*
 # MyST build outputs
 book/_build/
 _build/
+
+# MyST build outputs
+_build
