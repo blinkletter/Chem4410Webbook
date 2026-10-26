@@ -1,6 +1,6 @@
-# 7: Structure and pK<sub>a</sub>
+# 7: Structure and pK{sub}`a`
 
-Predicting **relative acid strengths** by comparing molecular structure and understanding **Solvent effects** on acid/base equilibrium.
+Predicting **relative acid strengths** by comparing molecular structure and understanding **Solvent effects** on acid/base equilibrium{sub}`2`.
 
 <hr>
 
