@@ -1,0 +1,76 @@
+building myst-cli session with API URL: https://api.mystmd.org
+(node:49733) ExperimentalWarning: localStorage is not available because --localstorage-file was not provided.
+(Use `node --trace-warnings ...` to show where the warning was created)
+🍡 Execution parallelism set to: 9
+🌎 Building MyST site
+📖 Built book/Lessons/Lesson-03Parts/part16.md in 207 ms.
+📖 Built book/Lessons/Lesson-03Parts/assignment5.md in 215 ms.
+📖 Built book/Lessons/Lesson-04.md in 220 ms.
+📖 Built book/Lessons/Lesson-04Parts/part17-T1.md in 221 ms.
+📖 Built book/Lessons/Lesson-04Parts/part18.md in 224 ms.
+📖 Built book/Lessons/Lesson-04Parts/part19.md in 226 ms.
+📖 Built book/Lessons/Lesson-04Parts/assignment6.md in 229 ms.
+📖 Built book/Lessons/Lesson-05.md in 239 ms.
+📖 Built book/Lessons/Lesson-05Parts/part20.md in 243 ms.
+🪄  Linked 1 DOI from doi.org in 20 ms for book/Lessons/Lesson-05Parts/part21.md
+📖 Built book/Lessons/Lesson-05Parts/part21.md in 348 ms.
+📖 Built book/Lessons/Lesson-05Parts/part22.md in 356 ms.
+🪄  Linked 1 DOI from doi.org in 3.85 ms for book/Lessons/Lesson-05Parts/part23.md
+📖 Built book/Lessons/Lesson-05Parts/part23.md in 371 ms.
+🪄  Linked 2 DOIs from doi.org in 1.45 ms for book/Lessons/Lesson-05Parts/part24.md
+📖 Built book/Lessons/Lesson-05Parts/part24.md in 386 ms.
+📖 Built book/Lessons/Lesson-05Parts/assignment7.md in 386 ms.
+📖 Built book/Lessons/Lesson-06.md in 392 ms.
+📖 Built book/Lessons/Lesson-06Parts/part25.md in 394 ms.
+📖 Built book/Lessons/Lesson-06Parts/part26.md in 394 ms.
+📖 Built book/Lessons/Lesson-06Parts/part27.md in 395 ms.
+📖 Built book/Lessons/Lesson-06Parts/part28-T2.md in 392 ms.
+📖 Built book/Lessons/Lesson-03Parts/assignment4.md in 451 ms.
+📖 Built book/Lessons/Lesson-06Parts/part30.md in 418 ms.
+📖 Built book/Info/Outcomes.md in 517 ms.
+📖 Built book/Lessons/Lesson-06Parts/part29.md in 430 ms.
+📖 Built book/start.md in 526 ms.
+📖 Built book/Info/Resources.md in 527 ms.
+📖 Built book/Info/Outline.md in 546 ms.
+🪄  Linked 1 DOI from doi.org in 4.48 ms for book/Lessons/Lesson-01.md
+📖 Built book/Lessons/Lesson-01.md in 578 ms.
+📖 Built book/Info/Course-Info.md in 597 ms.
+🪄  Linked 1 DOI from doi.org in 963 μs for book/Lessons/Lesson-01Parts/part02.md
+📖 Built book/Lessons/Lesson-01Parts/part02.md in 595 ms.
+📖 Built book/Lessons/Lesson-01Parts/part05.md in 596 ms.
+🪄  Linked 7 DOIs from doi.org in 16 ms for book/Lessons/Lesson-01Parts/part01.md
+📖 Built book/Lessons/Lesson-01Parts/part01.md in 653 ms.
+📖 Built book/Lessons/Lesson-01Parts/part04.md in 652 ms.
+📖 Built book/Lessons/Lesson-02.md in 667 ms.
+🪄  Linked 1 DOI from doi.org in 4.74 ms for book/Lessons/Lesson-01Parts/part03.md
+📖 Built book/Lessons/Lesson-01Parts/part03.md in 691 ms.
+🪄  Linked 1 DOI from doi.org in 1.15 ms for book/Lessons/Lesson-01Parts/assignment0.md
+📖 Built book/Lessons/Lesson-01Parts/assignment0.md in 700 ms.
+📖 Built book/Lessons/Lesson-02Parts/part08.md in 698 ms.
+📖 Built book/Lessons/Lesson-01Parts/assignment1.md in 714 ms.
+📖 Built book/Lessons/Lesson-02Parts/part07.md in 719 ms.
+📖 Built book/Lessons/Lesson-02Parts/assignment2.md in 712 ms.
+📖 Built book/Lessons/Lesson-02Parts/assignment3.md in 719 ms.
+🪄  Linked 2 DOIs from doi.org in 1.28 ms for book/Lessons/Lesson-02Parts/part06.md
+📖 Built book/Lessons/Lesson-02Parts/part06.md in 750 ms.
+📖 Built book/Lessons/Lesson-02Parts/part10.md in 747 ms.
+📖 Built book/Lessons/Lesson-02Parts/part09.md in 757 ms.
+📖 Built book/Lessons/Lesson-03Parts/part11.md in 754 ms.
+📖 Built book/Lessons/Lesson-03Parts/part13.md in 761 ms.
+📖 Built book/Lessons/Lesson-03.md in 779 ms.
+📖 Built book/Lessons/Lesson-03Parts/part12.md in 780 ms.
+📖 Built book/Lessons/Lesson-04BreakWeek.md in 778 ms.
+📖 Built book/Lessons/Lesson-03Parts/part14.md in 784 ms.
+📖 Built book/Lessons/Lesson-03Parts/part15.md in 786 ms.
+📖 Built book/Lessons/Lesson-06Parts/assignment8.md in 730 ms.
+📖 Built book/Lessons/Lesson-07.md in 730 ms.
+📖 Built book/Lessons/Lesson-07Parts/part34.md in 726 ms.
+📖 Built book/Lessons/Lesson-07Parts/part31.md in 733 ms.
+📖 Built book/Lessons/Lesson-06Parts/assignment9.md in 738 ms.
+📖 Built book/Lessons/Lesson-07Parts/part33.md in 735 ms.
+📖 Built book/Lessons/Lesson-07Parts/part32.md in 738 ms.
+📖 Built book/Lessons/Lesson-07Parts/part35extra.md in 736 ms.
+📖 Built book/Lessons/Lesson-07Parts/assignment10.md in 738 ms.
+📖 Built book/Lessons/Python.md in 749 ms.
+📖 Built book/Lessons/Links-for-Me.md in 751 ms.
+📚 Built 61 pages for project in 1.19 s.
