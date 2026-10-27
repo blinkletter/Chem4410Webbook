@@ -13,10 +13,10 @@ At the end of this course you will be able to better propose **mechanisms for ch
 
 ## Table of Contents
 
-### [Course Syllabus](/book/Info/Course_Info)
+### [Course Syllabus](/book/Info/Course-Info.md)
 
 All the important **information** about the course is here. The **textbook**, the instructor, the **topics**, the grading scheme, the **rules**, etc.
 
-### [Lessons](/book/Lessons/Lesson_01)
+### [Lessons](/book/Lessons/Lesson-01.md)
 
 The lessons track each week of the course. Each lesson will contain **details** about readings, assignments, presentations and quizzes. Always **read ahead** to next week's lesson.

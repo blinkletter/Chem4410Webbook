@@ -1,0 +1,100 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: start
+parts:
+    - caption: Acid and Bases
+      chapters:
+        - file: Class-08/Correlations.ipynb
+        - file: Class-08/CurveSmoothAndInterpolate.ipynb
+        - file: Class-08/H0-Data.ipynb
+        - file: Class-08/HNO3-Acidity-Function-Calcs.ipynb
+        - file: Class-08/HNO3-Acidity-Function.ipynb
+        - file: Class-08/LookAheadToKinetics.ipynb
+        - file: Class-08/Question5-13.ipynb    
+    - caption: Meeting  12 - LFER 1
+      chapters:
+        - file: Class-14/Table-4-Plots.ipynb
+        - file: Class-14/Table-5-Plots.ipynb
+        - file: Class-14/Table-6-Plots.ipynb
+        - file: Class-14/Table-7-Plots-with-YukawaTsuno.ipynb
+        - file: Class-14/Table-7-Plots.ipynb
+        - file: Class-14/Table1and2-ClassExamples.ipynb
+    - caption: Meeting 13 - LFER 2
+      chapters:
+        - file: Class-15/15-BrownOkamoto-Python-Notebook.ipynb
+        - file: Class-15/15-YukawaTsunoFitNotebook.ipynb
+        - file: Class-16/16-Class-Handout-Problems-OLd.ipynb
+        - file: Class-16/16-Class-Handout-Problems.ipynb
+        - file: Class-16/16-EstroneSyn.ipynb
+    - caption: LFER 3
+      chapters:
+        - file: Class-17/17-ClassExample-table1and3.ipynb
+        - file: Class-17/17-ClassExample-table3.ipynb
+        - file: Class-17/17-ClassExample-table4and5.ipynb
+    - caption: Aspirin Hydrolysis
+      chapters:
+        - file: Class-10/aspirin-notebook-with-uncertainty.ipynb
+    - caption: Kirby Enzyme Models
+      chapters:
+        - file: Class-11/01-Kirby2-PlotEqsFromPaper.ipynb
+        - file: Class-11/02-Kirby2-PlotEqsFromPaper.ipynb
+        - file: Class-11/03-Kirby2-PlotEqsFromPaper.ipynb
+        - file: Class-11/04-Kirby2-PlotEqsFromPaper.ipynb
+        - file: Class-11/05-Kirby2-DataAnalysis.ipynb
+        - file: Class-11/06-Kirby2-DataAnalysis.ipynb
+        - file: Class-11/04X-Kirby2-PlotEqsFromPaper.ipynb
+    - caption: Explorations 1
+      chapters:
+        - file: Class-21/21-Beckman-1.ipynb
+        - file: Class-21/21-Beckman-2.ipynb
+    - caption: Explorations 2
+      chapters:
+        - file: Class-23/23-1b-calculator.ipynb
+        - file: Class-23/23-AutoFit.ipynb
+        - file: Class-23/23-Figure2Paper-Hammett-Acid-Rate.ipynb
+        - file: Class-23/23-Figure3Paper-Hammett-Uncat-Rate.ipynb
+        - file: Class-23/23-Figure4Paper-Hammett-Acid-Rate.ipynb
+        - file: Class-23/23-Hammett-Acid-Rate.ipynb
+        - file: Class-23/23-Hammett-Base-Rate.ipynb
+        - file: Class-23/23-Hammett-Water-Rate.ipynb
+        - file: Class-23/23-pH-profile-fit.ipynb
+        - file: Class-23/23-pH-Profiles-AutoFit-kHKa.ipynb
+        - file: Class-23/23-pH-Profiles-AutoFit.ipynb
+        - file: Class-23/23-pHprofilefor1f.ipynb
+        - file: Class-23/23-ResultsTableCalculations.ipynb
+    - caption: Explorations 3
+      chapters:
+        - file: Class-30/01A-ActivityOfWaterinH2SO4byWt.ipynb
+        - file: Class-30/01B-ActivityOfWaterinH2SO4byX.ipynb
+        - file: Class-30/02-H2SO4-PercentWt-to-H0.ipynb
+        - file: Class-30/03-H2SO4-Percent-Density-Molarity.ipynb
+        - file: Class-30/03-H2SO4-PercentWt-to-MolarConc.ipynb
+        - file: Class-30/04-Cook-1975-HR-Values-Smooth.ipynb
+        - file: Class-30/04-H0-HR-Comparison.ipynb
+        - file: Class-30/interpolators-check.ipynb
+        - file: Class-30/Yates-interpolators.ipynb
+    - caption: Explorations 3 Yates
+      chapters:
+        - file: Class-30/Yates-Fig5-HRH0.ipynb
+        - file: Class-30/Yates-Fig5-HRH0+interpolatorsH0HR-Patches.ipynb
+        - file: Class-30/Yates-Fig6-MeOAc.ipynb
+        - file: Class-30/Yates-Fig7-MeOAc.ipynb
+        - file: Class-30/Yates-Fig8-rate-vs-aH2O.ipynb
+        - file: Class-30/Yates-Fig10-rate-vs-gammaH2O.ipynb
+        - file: Class-30/Yates-Fig13-rate-vs-gammaH2O.ipynb
+        - file: Class-30/Yates-Fig15-rate-vs-aH2O.ipynb
+        - file: Class-30/Yates-Fig20-rate-vs-aH2O.ipynb
+        - file: Class-30/Yates-Fig23-rate-vs-aH2O.ipynb
+        - file: Class-30/Yates-FigX-rate-vs-aH2O.ipynb
+    - caption: Extras
+      chapters:
+        - file: Class-09/CatenaryCurve.ipynb
+    - caption: Unused - Thermochemistry
+      chapters:
+        - file: Class-05/Group-Increments-Class-Handout-Discussion-Problem1.ipynb
+        - file: Class-05/Group-Increments-Class-Handout-Discussion-Problem5.ipynb
+        - file: Class-05/Group-Increments-Class-Handout-Discussion-Problems2to4.ipynb
+        - file: Class-05/Group-Increments-ClassExercises.ipynb
+        - file: Class-06/AValueClasshandoutDiscussion.ipynb

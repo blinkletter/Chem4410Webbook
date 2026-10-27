@@ -22,7 +22,7 @@ The following resources are web-books served from github.com. I wrote them for v
 
 ### Lesson 2
 
-- [**Catenary Curve Calculations**](https://colab.research.google.com/github/blinkletter/4410PythonNotebooks/blob/main/Class_09/CatenaryCurve.ipynb) \[via Colab\]. This is a Jupyter notebook for creating a plot catenary curve. This is a mathematical model for a hanging rope and I used it to create diagrams for the Hammond postulate. Take a look if you are interested.
+- [**Catenary Curve Calculations**](https://colab.research.google.com/github/blinkletter/4410PythonNotebooks/blob/main/Class-09/CatenaryCurve.ipynb) \[via Colab\]. This is a Jupyter notebook for creating a plot catenary curve. This is a mathematical model for a hanging rope and I used it to create diagrams for the Hammond postulate. Take a look if you are interested.
 
 - [**Numerical Methods using *Python***](https://www.southampton.ac.uk/~fangohr/teaching/python/book/html/16-scipy.html) \[Web\] A short tutorial focusing on numeric integration methods. 
 
@@ -34,18 +34,18 @@ The following resources are web-books served from github.com. I wrote them for v
 
 ### Meeting \#6
 
-- [**Hammett Acidity Function of Nitric Acid**](https://colab.research.google.com/github/blinkletter/4410PythonNotebooks/blob/main/Class_08/HNO3_Acidity_Function.ipynb) \[via Colab\] Plot a set of data for the Hammett acidity function of various mixtures of nitric acid and water. Then use a interpolation to estimate the $H_0$ at any concentration. 
-- [**Hammett Acidity Function Using Indicators**](https://colab.research.google.com/github/blinkletter/4410PythonNotebooks/blob/main/Class_08/HNO3_Acidity_Function_Calcs.ipynb) \[via Colab\] Calculate the acidity function of various mixture of nitric acid using aninline indicators. Moving step-by-step, we can begin with indicators of unknown $pK_a$ values and move thorugh mixtures of increasing acidity to determine the $H_0$ value of 100% $\rm HNO_3$ 
-- [**A Workbook for a Textbook Problem**](https://colab.research.google.com/github/blinkletter/4410PythonNotebooks/blob/main/Class_08/Question5_13.ipynb) \[via Colab\] Let a *Python* notebook be your well-documented calculator. Here is a notebook set up to help solve the math in problem 13 of chapter 5. 
-- [**Tables of Acidity Functions**](https://colab.research.google.com/github/blinkletter/4410PythonNotebooks/blob/main/Class_08/H0_Data.ipynb) \[via Colab\] This is exactly the same as the first notebook in the list above except it contain data for many different acid/water mixtures. You can select a different acid by chaning the filesname of the data set. 
+- [**Hammett Acidity Function of Nitric Acid**](https://colab.research.google.com/github/blinkletter/4410PythonNotebooks/blob/main/Class-08/HNO3-Acidity-Function.ipynb) \[via Colab\] Plot a set of data for the Hammett acidity function of various mixtures of nitric acid and water. Then use a interpolation to estimate the $H_0$ at any concentration. 
+- [**Hammett Acidity Function Using Indicators**](https://colab.research.google.com/github/blinkletter/4410PythonNotebooks/blob/main/Class-08/HNO3-Acidity-Function-Calcs.ipynb) \[via Colab\] Calculate the acidity function of various mixture of nitric acid using aninline indicators. Moving step-by-step, we can begin with indicators of unknown $pK_a$ values and move thorugh mixtures of increasing acidity to determine the $H_0$ value of 100% $\rm HNO_3$ 
+- [**A Workbook for a Textbook Problem**](https://colab.research.google.com/github/blinkletter/4410PythonNotebooks/blob/main/Class-08/Question5-13.ipynb) \[via Colab\] Let a *Python* notebook be your well-documented calculator. Here is a notebook set up to help solve the math in problem 13 of chapter 5. 
+- [**Tables of Acidity Functions**](https://colab.research.google.com/github/blinkletter/4410PythonNotebooks/blob/main/Class-08/H0-Data.ipynb) \[via Colab\] This is exactly the same as the first notebook in the list above except it contain data for many different acid/water mixtures. You can select a different acid by chaning the filesname of the data set. 
 
 
 -----
 
 ### Meeting \#7
 
-- [**An Example of Correlations**](https://colab.research.google.com/github/blinkletter/4410PythonNotebooks/blob/main/Class_08/Correlations.ipynb) \[via Colab\] We would expect the $pK_a$ values of acids to correlate in different solvents. There should be a proportional relationship and there is -- except when there isn't. Explore your first example of correlation studies in this course. there will be many more. <br>
-- [**A Look Ahead to Kinetics**](https://colab.research.google.com/github/blinkletter/4410PythonNotebooks/blob/main/Class_08/LookAheadToKinetics.ipynb) \[via Colab\] Reaction kinetics are math. Python notebooks are great at keeping track of your math.
+- [**An Example of Correlations**](https://colab.research.google.com/github/blinkletter/4410PythonNotebooks/blob/main/Class-08/Correlations.ipynb) \[via Colab\] We would expect the $pK_a$ values of acids to correlate in different solvents. There should be a proportional relationship and there is -- except when there isn't. Explore your first example of correlation studies in this course. there will be many more. <br>
+- [**A Look Ahead to Kinetics**](https://colab.research.google.com/github/blinkletter/4410PythonNotebooks/blob/main/Class-08/LookAheadToKinetics.ipynb) \[via Colab\] Reaction kinetics are math. Python notebooks are great at keeping track of your math.
 
 
 -----
@@ -60,32 +60,32 @@ The following resources are web-books served from github.com. I wrote them for v
 ### Meeting \#10
 
 - [**Acid Catalysis Notebook**](https://colab.research.google.com/github/blinkletter/4410PythonNotebooks/blob/main/Class_19_Ester_Carbonate_pH_profile/pH-RateProfileEsters.ipynb) \[via Colab\] 
-- [**The Changing Value of $K_w$**](https://colab.research.google.com/github/blinkletter/4410PythonNotebooks/blob/main/Class_10/water_ion_product.ipynb) \[via Colab\]
-- [**Aspirin Hydrolysis Calculations**](https://colab.research.google.com/github/blinkletter/4410PythonNotebooks/blob/main/Class_10/aspirin_notebook_with_uncertainty.ipynb) \[via Colab\] This is a Jupyter notebook and data sets that were used to create the plots for the aspirin pH-rate profiles presented in the discussion in the handout above. If you look through it you will see how all the math, plots and curve fits are described and documented in text and in code. Anyone can now see exactly how I produced the diagrams.
+- [**The Changing Value of $K_w$**](https://colab.research.google.com/github/blinkletter/4410PythonNotebooks/blob/main/Class-10/water-ion-product.ipynb) \[via Colab\]
+- [**Aspirin Hydrolysis Calculations**](https://colab.research.google.com/github/blinkletter/4410PythonNotebooks/blob/main/Class-10/aspirin-notebook-with-uncertainty.ipynb) \[via Colab\] This is a Jupyter notebook and data sets that were used to create the plots for the aspirin pH-rate profiles presented in the discussion in the handout above. If you look through it you will see how all the math, plots and curve fits are described and documented in text and in code. Anyone can now see exactly how I produced the diagrams.
 
 ----
 
 ### Meeting \#12
 
-- Explore this [**Jupyter notebook**](https://colab.research.google.com/github/blinkletter/4410PythonNotebooks/blob/main/Class_14/Table1and2_ClassExamples.ipynb) \[via Colab\] that contains the code and data for plotting and interpreting Hammett plots of acid and base-catalyzed hydrolysis of esters based on data in **table 1 and table 2 of the handout**. It should be examined before class as you complete questions 1 through 6 in the handout.
-- [**Plots of table 4 data**](https://colab.research.google.com/github/blinkletter/4410PythonNotebooks/blob/main/Class_14/Table_4_Plots.ipynb) \[via Colab\] 
-- [**Plots of table 5 data**](https://colab.research.google.com/github/blinkletter/4410PythonNotebooks/blob/main/Class_14/Table_5_Plots.ipynb) \[via Colab\] 
+- Explore this [**Jupyter notebook**](https://colab.research.google.com/github/blinkletter/4410PythonNotebooks/blob/main/Class-14/Table1and2-ClassExamples.ipynb) \[via Colab\] that contains the code and data for plotting and interpreting Hammett plots of acid and base-catalyzed hydrolysis of esters based on data in **table 1 and table 2 of the handout**. It should be examined before class as you complete questions 1 through 6 in the handout.
+- [**Plots of table 4 data**](https://colab.research.google.com/github/blinkletter/4410PythonNotebooks/blob/main/Class-14/Table-4-Plots.ipynb) \[via Colab\] 
+- [**Plots of table 5 data**](https://colab.research.google.com/github/blinkletter/4410PythonNotebooks/blob/main/Class-14/Table-5-Plots.ipynb) \[via Colab\] 
 
 -------
 
 ### Meeting \#13
 
-- Explore this [**Jupyter notebook**](https://colab.research.google.com/github/blinkletter/4410PythonNotebooks/blob/main/Class_14/Table1and2_ClassExamples.ipynb) \[via Colab\] NEEDS UPDATING that contains the code and data for plotting and interpreting Hammett plots of acid and base-catalyzed hydrolysis of esters based on data in **table 1 and table 2 of the handout**. It should be examined before class as you complete questions 1 through 6 in the handout.
-- [**Plots of table 6 data**](https://colab.research.google.com/github/blinkletter/4410PythonNotebooks/blob/main/Class_14/Table_6_Plots.ipynb) \[via Colab\] 
-- [**Plots of table 7 data**](https://colab.research.google.com/github/blinkletter/4410PythonNotebooks/blob/main/Class_14/Table_7_Plots.ipynb) \[via Colab\] 
-- [**Brown-Okamoto Jupyter notebook**](https://colab.research.google.com/github/blinkletter/4410PythonNotebooks/blob/main/Class_15/15-BrownOkamoto_Python_Notebook.ipynb) \[via Colab\] 
-- [**Yukawa-Tsuno Jupyter notebook**](https://colab.research.google.com/github/blinkletter/4410PythonNotebooks/blob/main/Class_15/15-YukawaTsunoFitNotebook.ipynb) \[via Colab\] 
+- Explore this [**Jupyter notebook**](https://colab.research.google.com/github/blinkletter/4410PythonNotebooks/blob/main/Class-14/Table1and2-ClassExamples.ipynb) \[via Colab\] NEEDS UPDATING that contains the code and data for plotting and interpreting Hammett plots of acid and base-catalyzed hydrolysis of esters based on data in **table 1 and table 2 of the handout**. It should be examined before class as you complete questions 1 through 6 in the handout.
+- [**Plots of table 6 data**](https://colab.research.google.com/github/blinkletter/4410PythonNotebooks/blob/main/Class-14/Table-6-Plots.ipynb) \[via Colab\] 
+- [**Plots of table 7 data**](https://colab.research.google.com/github/blinkletter/4410PythonNotebooks/blob/main/Class-14/Table-7-Plots.ipynb) \[via Colab\] 
+- [**Brown-Okamoto Jupyter notebook**](https://colab.research.google.com/github/blinkletter/4410PythonNotebooks/blob/main/Class-15/15-BrownOkamoto-Python-Notebook.ipynb) \[via Colab\] 
+- [**Yukawa-Tsuno Jupyter notebook**](https://colab.research.google.com/github/blinkletter/4410PythonNotebooks/blob/main/Class-15/15-YukawaTsunoFitNotebook.ipynb) \[via Colab\] 
 
 ------
 
 ### Meeting \#14
 
-- Explore the [**jupyter notebook**](https://colab.research.google.com/github/blinkletter/4410PythonNotebooks/blob/main/Class_16/16_Class_Handout_Problems.ipynb) \[via Colab\] that presents the code and plots in data plots handout \#3
-- Explore the [**jupyter notebook**](https://colab.research.google.com/github/blinkletter/4410PythonNotebooks/blob/main/Class_16/16-EstroneSyn.ipynb) \[via Colab\] that contains the code and data for the plots presented in the handout.
+- Explore the [**jupyter notebook**](https://colab.research.google.com/github/blinkletter/4410PythonNotebooks/blob/main/Class-16/16-Class-Handout-Problems.ipynb) \[via Colab\] that presents the code and plots in data plots handout \#3
+- Explore the [**jupyter notebook**](https://colab.research.google.com/github/blinkletter/4410PythonNotebooks/blob/main/Class-16/16-EstroneSyn.ipynb) \[via Colab\] that contains the code and data for the plots presented in the handout.
 
 

@@ -1,6 +1,6 @@
 LESSON 1
 
-1. [Textbook Table of Contents](https://uscibooks.aip.org/wp-content/uploads/adfm_new.pdf)
+1. [Textbook Table of Contents](https://uscibooks.aip.org/wp-content/uploads/adfm-new.pdf)
       - This is the front matter from the textbook.
 2. [Organic Chemistry Review](http://sites.tufts.edu/andrewrosen/files/2012/11/Orgo-I-Overview1.pdf)
       - I found this set of review slides at Tufts University. It is a concise list including most of the reactions that you explored in Chem 2410/2420/3420. Perhaps it will be helpful.
@@ -10,19 +10,19 @@ LESSON 1
       - This is a link to a module of an out-of-print textbook from Wiley.
 5. [Hybrid Orbitals and Bonding](http://www.cpp.edu/~psbeauchamp/pdf/314_lect_02.pdf) 
       - This is an overview of hybrid orbitals and bonding from Cal Poly Pomona. 
-6. [More Arrow Pushing](https://www.chem.wisc.edu/areas/clc/organic/343/03_electron_pushing_343.pdf)
+6. [More Arrow Pushing](https://www.chem.wisc.edu/areas/clc/organic/343/03-electron-pushing-343.pdf)
       - Another take on arrow pushing in organic chemical mechanisms from the University of Wisconsin. 
 7. [Virtual Textbook of Organic Chemistry](https://www2.chemistry.msu.edu/faculty/reusch/virttxtjml/intro1.htm) 
       - This is a link to the free textbook by William Reusch. It is a serviceable overview of organic chemistry and it is free. 
-8. [Organic Chemistry Mechanism Problems with Answers](https://github.com/blinkletter/Chem4410/blob/main/Lessons/Lesson_01/practice_e12-S.Cortes.pdf) 
+8. [Organic Chemistry Mechanism Problems with Answers](https://github.com/blinkletter/Chem4410/blob/main/Lessons/Lesson-01/practice_e12-S.Cortes.pdf) 
       - This is a set of problems curated by Sergio Cortes of the University of Texas at Dallas. Try them out before checking the answers.
-9. [Organic Chemistry Review](https://github.com/blinkletter/Chem4410/blob/main/Lessons/Lesson_01/01-Review_of_Selected_Topics_in_Organic_Chemistry.pdf) 
+9. [Organic Chemistry Review](https://github.com/blinkletter/Chem4410/blob/main/Lessons/Lesson-01/01-Review_of_Selected_Topics_in_Organic_Chemistry.pdf) 
       - I wrote this as a review of organic chemistry for students who are beginning my biochemistry course.
-10. [Review of Organic Chemistry: Nucleophilic Carbon](https://github.com/blinkletter/Chem4410/blob/main/Lessons/Lesson_01/02-Nucleophilic_Carbon.pdf) 
+10. [Review of Organic Chemistry: Nucleophilic Carbon](https://github.com/blinkletter/Chem4410/blob/main/Lessons/Lesson-01/02-Nucleophilic_Carbon.pdf) 
       - I wrote this as a supple- ment for my advanced organic chemistry course as a review of enolate chemistry. It is brief and not very comprehensive but may be helpful. 
-11. [Summary of Organic Chemistry](https://github.com/blinkletter/Chem4410/blob/main/Lessons/Lesson_01/36-Chemistry%20243%20Review.pdf) 
+11. [Summary of Organic Chemistry](https://github.com/blinkletter/Chem4410/blob/main/Lessons/Lesson-01/36-Chemistry%20243%20Review.pdf) 
       - I started writing this as an overview of Or- ganic Chemistry for Life Sciences, Chem 243. It was never finished but what is there may be helpful. 
-12. [A Chemistry Toolkit](https://github.com/blinkletter/Chem4410/blob/main/Lessons/Lesson_01/01-30-Chem_112_Toolkit%20copy.pdf)
+12. [A Chemistry Toolkit](https://github.com/blinkletter/Chem4410/blob/main/Lessons/Lesson-01/01-30-Chem_112_Toolkit%20copy.pdf)
       - I wrote this as a review of introductory chemistry for my beginning organic chjemistry students. It’s been a long time since your first year. How much do you recall? 
 
 

@@ -18,78 +18,78 @@ project:
     - file: book/start.md
     - title: Course Information
       children:
-        - file: book/Info/Course_Info.md
+        - file: book/Info/Course-Info.md
           children:
             - file: book/Info/Outcomes.md
             - file: book/Info/Resources.md
         - file: book/Info/Outline.md
     - title: Lessons
       children:
-        - file: book/Lessons/Lesson_01.md
+        - file: book/Lessons/Lesson-01.md
           children:
-            - file: book/Lessons/Lesson_01Parts/part01.md
-            - file: book/Lessons/Lesson_01Parts/part02.md
-            - file: book/Lessons/Lesson_01Parts/part03.md
-            - file: book/Lessons/Lesson_01Parts/part04.md
-            - file: book/Lessons/Lesson_01Parts/part05.md
-            - file: book/Lessons/Lesson_01Parts/assignment0.md
-            - file: book/Lessons/Lesson_01Parts/assignment1.md
-        - file: book/Lessons/Lesson_02.md
+            - file: book/Lessons/Lesson-01Parts/part01.md
+            - file: book/Lessons/Lesson-01Parts/part02.md
+            - file: book/Lessons/Lesson-01Parts/part03.md
+            - file: book/Lessons/Lesson-01Parts/part04.md
+            - file: book/Lessons/Lesson-01Parts/part05.md
+            - file: book/Lessons/Lesson-01Parts/assignment0.md
+            - file: book/Lessons/Lesson-01Parts/assignment1.md
+        - file: book/Lessons/Lesson-02.md
           children:
-            - file: book/Lessons/Lesson_02Parts/part06.md
-            - file: book/Lessons/Lesson_02Parts/part07.md
-            - file: book/Lessons/Lesson_02Parts/part08.md
-            - file: book/Lessons/Lesson_02Parts/part09.md
-            - file: book/Lessons/Lesson_02Parts/part10.md
-            - file: book/Lessons/Lesson_02Parts/assignment2.md
-            - file: book/Lessons/Lesson_02Parts/assignment3.md
-        - file: book/Lessons/Lesson_03.md
+            - file: book/Lessons/Lesson-02Parts/part06.md
+            - file: book/Lessons/Lesson-02Parts/part07.md
+            - file: book/Lessons/Lesson-02Parts/part08.md
+            - file: book/Lessons/Lesson-02Parts/part09.md
+            - file: book/Lessons/Lesson-02Parts/part10.md
+            - file: book/Lessons/Lesson-02Parts/assignment2.md
+            - file: book/Lessons/Lesson-02Parts/assignment3.md
+        - file: book/Lessons/Lesson-03.md
           children:
-            - file: book/Lessons/Lesson_03Parts/part11.md
-            - file: book/Lessons/Lesson_03Parts/part12.md
-            - file: book/Lessons/Lesson_03Parts/part13.md
-            - file: book/Lessons/Lesson_04BreakWeek.md
-            - file: book/Lessons/Lesson_03Parts/part14.md
-            - file: book/Lessons/Lesson_03Parts/part15.md
-            - file: book/Lessons/Lesson_03Parts/part16.md
-            - file: book/Lessons/Lesson_03Parts/assignment4.md
-            - file: book/Lessons/Lesson_03Parts/assignment5.md
-        - file: book/Lessons/Lesson_04.md
+            - file: book/Lessons/Lesson-03Parts/part11.md
+            - file: book/Lessons/Lesson-03Parts/part12.md
+            - file: book/Lessons/Lesson-03Parts/part13.md
+            - file: book/Lessons/Lesson-04BreakWeek.md
+            - file: book/Lessons/Lesson-03Parts/part14.md
+            - file: book/Lessons/Lesson-03Parts/part15.md
+            - file: book/Lessons/Lesson-03Parts/part16.md
+            - file: book/Lessons/Lesson-03Parts/assignment4.md
+            - file: book/Lessons/Lesson-03Parts/assignment5.md
+        - file: book/Lessons/Lesson-04.md
           children:
-            - file: book/Lessons/Lesson_04Parts/part17_T1.md
-            - file: book/Lessons/Lesson_04Parts/part18.md
-            - file: book/Lessons/Lesson_04Parts/part19.md
-            - file: book/Lessons/Lesson_04Parts/assignment6.md
-        - file: book/Lessons/Lesson_05.md
+            - file: book/Lessons/Lesson-04Parts/part17-T1.md
+            - file: book/Lessons/Lesson-04Parts/part18.md
+            - file: book/Lessons/Lesson-04Parts/part19.md
+            - file: book/Lessons/Lesson-04Parts/assignment6.md
+        - file: book/Lessons/Lesson-05.md
           children:
-            - file: book/Lessons/Lesson_05Parts/part20.md
-            - file: book/Lessons/Lesson_05Parts/part21.md
-            - file: book/Lessons/Lesson_05Parts/part22.md
-            - file: book/Lessons/Lesson_05Parts/part23.md
-            - file: book/Lessons/Lesson_05Parts/part24.md
-            - file: book/Lessons/Lesson_05Parts/assignment7.md
-        - file: book/Lessons/Lesson_06.md
+            - file: book/Lessons/Lesson-05Parts/part20.md
+            - file: book/Lessons/Lesson-05Parts/part21.md
+            - file: book/Lessons/Lesson-05Parts/part22.md
+            - file: book/Lessons/Lesson-05Parts/part23.md
+            - file: book/Lessons/Lesson-05Parts/part24.md
+            - file: book/Lessons/Lesson-05Parts/assignment7.md
+        - file: book/Lessons/Lesson-06.md
           children:
-            - file: book/Lessons/Lesson_06Parts/part25.md
-            - file: book/Lessons/Lesson_06Parts/part26.md
-            - file: book/Lessons/Lesson_06Parts/part27.md
-            - file: book/Lessons/Lesson_06Parts/part28_T2.md
-            - file: book/Lessons/Lesson_06Parts/part29.md
-            - file: book/Lessons/Lesson_06Parts/part30.md
-            - file: book/Lessons/Lesson_06Parts/assignment8.md
-            - file: book/Lessons/Lesson_06Parts/assignment9.md
-        - file: book/Lessons/Lesson_07.md
+            - file: book/Lessons/Lesson-06Parts/part25.md
+            - file: book/Lessons/Lesson-06Parts/part26.md
+            - file: book/Lessons/Lesson-06Parts/part27.md
+            - file: book/Lessons/Lesson-06Parts/part28-T2.md
+            - file: book/Lessons/Lesson-06Parts/part29.md
+            - file: book/Lessons/Lesson-06Parts/part30.md
+            - file: book/Lessons/Lesson-06Parts/assignment8.md
+            - file: book/Lessons/Lesson-06Parts/assignment9.md
+        - file: book/Lessons/Lesson-07.md
           children:
-            - file: book/Lessons/Lesson_07Parts/part31.md
-            - file: book/Lessons/Lesson_07Parts/part32.md
-            - file: book/Lessons/Lesson_07Parts/part33.md
-            - file: book/Lessons/Lesson_07Parts/part34.md
-            - file: book/Lessons/Lesson_07Parts/part35extra.md
-            - file: book/Lessons/Lesson_07Parts/assignment10.md
+            - file: book/Lessons/Lesson-07Parts/part31.md
+            - file: book/Lessons/Lesson-07Parts/part32.md
+            - file: book/Lessons/Lesson-07Parts/part33.md
+            - file: book/Lessons/Lesson-07Parts/part34.md
+            - file: book/Lessons/Lesson-07Parts/part35extra.md
+            - file: book/Lessons/Lesson-07Parts/assignment10.md
     - title: Extras
       children:
         - file: book/Lessons/Python.md
-        - file: book/Lessons/Links_for_Me.md
+        - file: book/Lessons/Links-for-Me.md
 site:
   template: book-theme
 #çmyst build  parts:
