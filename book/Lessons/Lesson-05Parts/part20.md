@@ -1,6 +1,6 @@
-# 20: S<sub>N</sub>1 \& S<sub>N</sub>2 Substitutions
+# 20: S{sub}`N`1 \& S{sub}`N`2 Substitutions
 
-Is there anything simpler than S<sub>N</sub>1 and S<sub>N</sub>2 mechanisms? Wait! They're not so simple. Today we will review these classic mechamisms and point out the edge cases that make physical organic chemistry so much fun.
+Is there anything simpler than S{sub}`N`1 and S{sub}`N`2 mechanisms? Wait! They're not so simple. Today we will review these classic mechamisms and point out the edge cases that make physical organic chemistry so much fun.
 <hr>
 
 ## Before

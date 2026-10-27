@@ -21,7 +21,7 @@ In the **examples** chosen for this lesson, we will see use our **knowledge** of
     - This topic and the next two topics will highlight how molecular orbital theory can be paramount in interpreting reaction mechanisms. Pushing curved arrows will not explain all observations. We will examine molecular orbitals and frontier molecular orbital theory (FMOT) as they apply to cycloaddition reactions and inform the famous Woodward-Hoffmann rules. 
 32. **[Electrocyclic reactions](Lesson-07Parts/part32.md)**
     - Another mechanism that serves as an example for FMOT.
-33. **[Pericyclic rearrangements](Lesson-07Parts/part33.md)**
+33. **[Sigmatropic rearrangements](Lesson-07Parts/part33.md)**
     - No high-energy intermediates are required to accomplish these rearrangements. Another example of FMOT in action.
 34. **[Carbenes](Lesson-07Parts/part34.md)**
     - Carbon can exist in a form that is neutral but is both and electrophile and a nucleophile - or a diradical, depending on structure and conditions. **Carbenes** are high-energy intermediates are a very reactive. Their chemistry is also dominated by molecular orbital interactions. This subject is covered in chapter 15 but there is a more detailed discussion in chapter 10.11.

@@ -111,7 +111,7 @@ You should have access to the **textbook** to succeed in this course.  [**Inform
 **Review** your organic chemistry. The below **textbooks** will be helpful.
 
 - McMurry's [**Organic Chemistry**](https://openstax.org/details/books/organic-chemistry) \[Web\] This is a **professionally edited** textbook that was used by millions of organic chemistry students over the past three decades. The latest edition has been made **freely available** by the author as a **gift to humanity**. Read the preface to learn the story that inspired this act of generousity.
-- [**Organic Chemistry: An Intermediate Text**](https://onlinelibrary-wiley-com.proxy.library.upei.ca/doi/book/10.1002/0471648736) \[Web\] This is an excellent book for reviewing your chem 3420 experience and for furthering your organic chemistry skills. It is fairly **short and to the point**. It is available for free to UPEI students via the UPEI library e-book subscription.
+- Hoffman's [**Organic Chemistry: An Intermediate Text**](https://onlinelibrary-wiley-com.proxy.library.upei.ca/doi/book/10.1002/0471648736) \[Web\] This is an excellent book for reviewing your chem 3420 experience and for furthering your organic chemistry skills. It is fairly **short and to the point**. It is available for free to UPEI students via the UPEI library e-book subscription.
 
 ### Literature Resources
 

@@ -1,4 +1,4 @@
-# 33: Pericyclic Rearrangements
+# 33: Sigmatropic Rearrangements
 
 XXXX
 <hr>
