@@ -19,14 +19,14 @@ Before a class meeting, you should do the **recommended reading** in advance. Ar
 ```
 
 >  **Read** the [**preface of your textbook (pages xxiii to xxiv)**](../Lesson-01/adfm-new.pdf) \[PDF\]. This is a nice argument for why you should be taking this course. Eric Anslyn and Dennis Dougherty try to convince us the physical organic chemistry is not just for the old folks, its principles continue to inform all advances in chemistry to this very day. <br><br>
-**Read** "Six Pillars of Organic Chemistry." Joseph J. Mullins, *Journal of Chemical Education*, **2008**, *85*, 83-97. [**https://doi.org/10.1021/ed085p83**](https://doi.org/10.1021/ed085p83) \[Web\]. I will be arguing that all of these pillars are the domain of physical organic chemistry. 
+**Read** "Six Pillars of Organic Chemistry." Joseph J. Mullins, *Journal of Chemical Education*, **2008**, *85*, 83-97. [**https://hdl.handle.net/10.1021/ed085p83**](https://hdl.handle.net/10.1021/ed085p83) \[Web\]. I will be arguing that all of these pillars are the domain of physical organic chemistry. 
 
 ```{admonition} A Note on the "Gray Boxes"
 :class: dropdown
 Items on the lesson pages and the class meeting pages that are **highlighted in the grey box**, as seen above, are **required**. If the gray box is in the *Before* section then the reading should be **completed before** the class meeting. Other activities, readings and exercises may be suggested but the gray boxes are **required**. The class will be more challenging if you do not **come prepared** for a class.
 ```
 
-- **Read** "Physical Organic Chemistry in the 21st Century: A Q1 Progress Report." H.I. Williams, *Chemistry International*, **2022**, *44*, 10-13. **[https://doi.org/10.1515/ci-2022-0203](https://doi.org/10.1515/ci-2022-0203)** \[Web\]. This is a **recent argument** for why physical organic chemistry remains relevant and essential. It is a commentary on the 25 years since a famous themed issue was published of the journal *Pure and Applied Chemistry* that **[surveyed, commemorated and celebrated](https://www.degruyterbrill.com/journal/key/pac/69/2/html)** \[Web\] the field at the end of the last millenium.
+- **Read** "Physical Organic Chemistry in the 21st Century: A Q1 Progress Report." H.I. Williams, *Chemistry International*, **2022**, *44*, 10-13. **[https://hdl.handle.net/10.1515/ci-2022-0203](https://hdl.handle.net/10.1515/ci-2022-0203)** \[Web\]. This is a **recent argument** for why physical organic chemistry remains relevant and essential. It is a commentary on the 25 years since a famous themed issue was published of the journal *Pure and Applied Chemistry* that **[surveyed, commemorated and celebrated](https://www.degruyterbrill.com/journal/key/pac/69/2/html)** \[Web\] the field at the end of the last millenium.
 
 ```{admonition} A Note on Links to Journals
 :class: dropdown
@@ -158,15 +158,15 @@ You should have access to the textbook to succeed in this course.  [Information 
 
 Physical organic chemists clearly need a lot of validation. Here are some published examples.
 
-- "Physical-Organic Chemistry: A Swiss Army Knife.", G.M. Whitesides, *Isr. J. Chem.*, **2016**, *56*, 66-82. [**https://doi.org/10.1002/ijch.201500061**](https://doi.org/10.1002/ijch.201500061) \[Web\].
+- "Physical-Organic Chemistry: A Swiss Army Knife.", G.M. Whitesides, *Isr. J. Chem.*, **2016**, *56*, 66-82. [**https://hdl.handle.net/10.1002/ijch.201500061**](https://hdl.handle.net/10.1002/ijch.201500061) \[Web\].
 
-- "What will physical organic chemistry achieve in the 21st century?" Ronald Breslow, *Pure and Applied Chemistry*, **1997**, *69*, 223-226. [**https://doi.org/10.1351/pac199769020223**](https://doi.org/10.1351/pac199769020223)  \[Web\]. This is just one paper in the the physical organic chemistry themed issue of *Pure and Applied Chemistry* mentioned at the top of this page. You can find more by clicking on the link to [**go to the journal website**](https://www.degruyterbrill.com/journal/key/pac/69/2/html) \[Web\].
+- "What will physical organic chemistry achieve in the 21st century?" Ronald Breslow, *Pure and Applied Chemistry*, **1997**, *69*, 223-226. [**https://hdl.handle.net/10.1351/pac199769020223**](https://hdl.handle.net/10.1351/pac199769020223)  \[Web\]. This is just one paper in the the physical organic chemistry themed issue of *Pure and Applied Chemistry* mentioned at the top of this page. You can find more by clicking on the link to [**go to the journal website**](https://www.degruyterbrill.com/journal/key/pac/69/2/html) \[Web\].
 
-- "Physical organic chemistry after 50 years: It has changed, but is it still there?" G.S. Hammond, *Pure and Applied Chemistry*, **1997**, *69*, 1919-1922. [**https://doi.org/10.1351/pac199769091919**](https://doi.org/10.1351/pac199769091919) \[Web\].
+- "Physical organic chemistry after 50 years: It has changed, but is it still there?" G.S. Hammond, *Pure and Applied Chemistry*, **1997**, *69*, 1919-1922. [**https://hdl.handle.net/10.1351/pac199769091919**](https://hdl.handle.net/10.1351/pac199769091919) \[Web\].
 
-- "The application of physical organic chemistry to biochemical problems." Frank Westheimer, *Journal of Chemical Education*, **1986**, *63*, 409-413. [**https://doi.org/10.1021/ed063p409**](https://doi.org/10.1021/ed063p409) \[Web\].
+- "The application of physical organic chemistry to biochemical problems." Frank Westheimer, *Journal of Chemical Education*, **1986**, *63*, 409-413. [**https://hdl.handle.net/10.1021/ed063p409**](https://hdl.handle.net/10.1021/ed063p409) \[Web\].
 
-- "Physical organic chemistry in retrospect." Louis P. Hammett, *Journal of Chemical Education*, **1966**, *43*, 464-469. [**https://doi.org/10.1021/ed043p464**](https://doi.org/10.1021/ed043p464) \[Web\].
+- "Physical organic chemistry in retrospect." Louis P. Hammett, *Journal of Chemical Education*, **1966**, *43*, 464-469. [**https://hdl.handle.net/10.1021/ed043p464**](https://hdl.handle.net/10.1021/ed043p464) \[Web\].
 
 
 

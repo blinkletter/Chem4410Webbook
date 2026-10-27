@@ -9,7 +9,7 @@ Along the way of this journey we will aslo be learning more about the nature of 
 
 In the **previous** class meeting we discussed my plans for a personal exploration and revealed that my final document wandered far away from that plan. We **started** with one idea, but as I explored the literature on the subject I was **detoured** to an exploration of non-classical carbocations. The **final** document is based on the report of a non-classical carbocationic intermediate by Saul Winstein.
 
-The paper is: “The Structure of the Bicyclo[2,2,1]2-Heptyl (Norbornyl) Carbonium Ion.” S. Winstein, D.S. Trifan , *J. Am. Chem. Soc.*, **1949**, *71*, 2953. [https://doi.org/10.1021/ja01176a536](https://doi.org/10.1021/ja01176a536)
+The paper is: “The Structure of the Bicyclo[2,2,1]2-Heptyl (Norbornyl) Carbonium Ion.” S. Winstein, D.S. Trifan , *J. Am. Chem. Soc.*, **1949**, *71*, 2953. [https://hdl.handle.net/10.1021/ja01176a536](https://hdl.handle.net/10.1021/ja01176a536)
 
 As you prepare for the discussion of the details of Winstein's work ion nonclassical carbocations, read the following.
 
@@ -18,8 +18,8 @@ As you prepare for the discussion of the details of Winstein's work ion nonclass
 
 The two papers that were explored in detail in this exploration are presented below for convenioence in accessing them using the web links provided.: 
 
-- “Neighboring Carbon and Hydrogen. X. Solvolysis of endo-Norbornyl Arylsulfonates.” S. Winstein, D. Trifan , *J. Am. Chem. Soc.*, **1952**, *74*, 1147–1154. [https://doi.org/10.1021/ja01125a006](https://doi.org/10.1021/ja01125a006)
-- “Neighboring Carbon and Hydrogen. XI. Solvolysis of exo-Norbornyl p-Bromobenzenesulfonate.” S. Winstein, D. Trifan , *J. Am. Chem. Soc.*, **1952**, *74*, 1154–1160. [https://doi.org/10.1021/ja01125a007](https://doi.org/10.1021/ja01125a007)
+- “Neighboring Carbon and Hydrogen. X. Solvolysis of endo-Norbornyl Arylsulfonates.” S. Winstein, D. Trifan , *J. Am. Chem. Soc.*, **1952**, *74*, 1147–1154. [https://hdl.handle.net/10.1021/ja01125a006](https://hdl.handle.net/10.1021/ja01125a006)
+- “Neighboring Carbon and Hydrogen. XI. Solvolysis of exo-Norbornyl p-Bromobenzenesulfonate.” S. Winstein, D. Trifan , *J. Am. Chem. Soc.*, **1952**, *74*, 1154–1160. [https://hdl.handle.net/10.1021/ja01125a007](https://hdl.handle.net/10.1021/ja01125a007)
 
 
 <hr>

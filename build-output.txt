@@ -74,3 +74,88 @@ building myst-cli session with API URL: https://api.mystmd.org
 📖 Built book/Lessons/Python.md in 749 ms.
 📖 Built book/Lessons/Links-for-Me.md in 751 ms.
 📚 Built 61 pages for project in 1.19 s.
+
+🍡 Execution parallelism set to: 5
+🌎 Building MyST site
+📖 Built book/Lessons/Lesson-01Parts/part04.md in 679 ms.
+📖 Built book/Lessons/Lesson-01Parts/part05.md in 691 ms.
+📖 Built book/Lessons/Lesson-01Parts/assignment1.md in 720 ms.
+📖 Built book/Lessons/Lesson-02.md in 752 ms.
+📖 Built book/Lessons/Lesson-02Parts/part07.md in 769 ms.
+📖 Built book/Lessons/Lesson-02Parts/part08.md in 773 ms.
+📖 Built book/Lessons/Lesson-02Parts/part09.md in 772 ms.
+📖 Built book/Lessons/Lesson-02Parts/part10.md in 785 ms.
+📖 Built book/Lessons/Lesson-02Parts/assignment2.md in 793 ms.
+📖 Built book/Lessons/Lesson-02Parts/assignment3.md in 805 ms.
+📖 Built book/Lessons/Lesson-03.md in 828 ms.
+📖 Built book/Lessons/Lesson-03Parts/part11.md in 839 ms.
+📖 Built book/Lessons/Lesson-03Parts/part12.md in 843 ms.
+📖 Built book/Lessons/Lesson-03Parts/part13.md in 854 ms.
+📖 Built book/Lessons/Lesson-04BreakWeek.md in 851 ms.
+📖 Built book/Lessons/Lesson-03Parts/part14.md in 855 ms.
+📖 Built book/Lessons/Lesson-03Parts/part15.md in 858 ms.
+📖 Built book/Lessons/Lesson-03Parts/part16.md in 861 ms.
+📖 Built book/Lessons/Lesson-03Parts/assignment4.md in 872 ms.
+📖 Built book/Lessons/Lesson-03Parts/assignment5.md in 877 ms.
+📖 Built book/Lessons/Lesson-04.md in 880 ms.
+📖 Built book/Lessons/Lesson-04Parts/part17-T1.md in 879 ms.
+📖 Built book/Lessons/Lesson-04Parts/part18.md in 877 ms.
+📖 Built book/Lessons/Lesson-04Parts/part19.md in 879 ms.
+📖 Built book/Lessons/Lesson-04Parts/assignment6.md in 879 ms.
+📖 Built book/Lessons/Lesson-05.md in 889 ms.
+📖 Built book/Lessons/Lesson-05Parts/part20.md in 888 ms.
+📖 Built book/Lessons/Lesson-05Parts/assignment7.md in 892 ms.
+📖 Built book/Lessons/Lesson-06.md in 896 ms.
+📖 Built book/Lessons/Lesson-06Parts/part25.md in 897 ms.
+📖 Built book/Lessons/Lesson-06Parts/part26.md in 897 ms.
+📖 Built book/Lessons/Lesson-06Parts/part27.md in 899 ms.
+📖 Built book/Lessons/Lesson-06Parts/part28-T2.md in 897 ms.
+📖 Built book/Lessons/Lesson-06Parts/part29.md in 897 ms.
+📖 Built book/Lessons/Lesson-06Parts/part30.md in 901 ms.
+📖 Built book/Lessons/Lesson-06Parts/assignment8.md in 867 ms.
+📖 Built book/Lessons/Lesson-06Parts/assignment9.md in 867 ms.
+📖 Built book/Lessons/Lesson-07.md in 873 ms.
+📖 Built book/Lessons/Lesson-07Parts/part31.md in 874 ms.
+📖 Built book/Lessons/Lesson-07Parts/part32.md in 874 ms.
+📖 Built book/Lessons/Lesson-07Parts/part33.md in 876 ms.
+📖 Built book/start.md in 1.13 s.
+📖 Built book/Info/Course-Info.md in 1.15 s.
+📖 Built book/Info/Outcomes.md in 1.16 s.
+📖 Built book/Info/Resources.md in 1.16 s.
+📖 Built book/Info/Outline.md in 1.19 s.
+📖 Built book/Lessons/Lesson-07Parts/part34.md in 953 ms.
+📖 Built book/Lessons/Lesson-07Parts/part35extra.md in 939 ms.
+📖 Built book/Lessons/Python.md in 949 ms.
+📖 Built book/Lessons/Lesson-07Parts/assignment10.md in 958 ms.
+📖 Built book/Lessons/Links-for-Me.md in 969 ms.
+🪄  Linked 1 DOI from doi.org in 1.09 s for book/Lessons/Lesson-01.md
+📖 Built book/Lessons/Lesson-01.md in 1.87 s.
+🪄  Linked 1 DOI from doi.org in 3.07 s for book/Lessons/Lesson-01Parts/part02.md
+📖 Built book/Lessons/Lesson-01Parts/part02.md in 3.74 s.
+🪄  Linked 1 DOI from doi.org in 3.19 s for book/Lessons/Lesson-01Parts/part03.md
+📖 Built book/Lessons/Lesson-01Parts/part03.md in 3.87 s.
+🪄  Linked 1 DOI from doi.org in 3.29 s for book/Lessons/Lesson-01Parts/assignment0.md
+📖 Built book/Lessons/Lesson-01Parts/assignment0.md in 4 s.
+⏳ Waiting to resolve up to 7 DOIs from doi.org...
+⏳ Waiting to resolve up to 2 DOIs from doi.org...
+⏳ Waiting to resolve up to 1 DOI from doi.org...
+⏳ Waiting to resolve up to 1 DOI from doi.org...
+⏳ Waiting to resolve up to 1 DOI from doi.org...
+⏳ Waiting to resolve up to 3 DOIs from doi.org...
+⏳ Waiting for response from https://doi.org/10.1351/pac199769091919
+🪄  Linked 2 DOIs from doi.org in 6.5 s for book/Lessons/Lesson-02Parts/part06.md
+📖 Built book/Lessons/Lesson-02Parts/part06.md in 7.28 s.
+🪄  Linked 1 DOI from doi.org in 6.4 s for book/Lessons/Lesson-05Parts/part21.md
+📖 Built book/Lessons/Lesson-05Parts/part21.md in 7.3 s.
+📖 Built book/Lessons/Lesson-05Parts/part22.md in 7.3 s.
+⏳ Waiting for response from https://doi.org/10.1021/ed063p409
+🪄  Linked 1 DOI from doi.org in 6.83 s for book/Lessons/Lesson-05Parts/part23.md
+📖 Built book/Lessons/Lesson-05Parts/part23.md in 7.72 s.
+🪄  Linked 7 DOIs from doi.org in 7.55 s for book/Lessons/Lesson-01Parts/part01.md
+📖 Built book/Lessons/Lesson-01Parts/part01.md in 8.24 s.
+🪄  Linked 2 DOIs from doi.org in 7.26 s for book/Lessons/Lesson-05Parts/part24.md
+📖 Built book/Lessons/Lesson-05Parts/part24.md in 8.16 s.
+📚 Built 61 pages for project in 9 s.
+🔍 Querying template metadata from https://api.mystmd.org/templates/site/myst/book-theme
+🐕 Fetching template from https://github.com/myst-templates/book-theme/archive/refs/heads/main.zip
+💾 Saved template to path _build/templates/site/myst/book-theme

@@ -117,7 +117,7 @@ You should have access to the **textbook** to succeed in this course.  [**Inform
 
 The following paper is a report from IUPAC that lays out the current terminology of physical organic chemistry. If you come across a phrase that you do not understand then this report may help translate the jargon.
 
-- "Glossary of terms used in physical organic chemistry (IUPAC Recommendations 2021.)" C.L. Perrin, I. Agranat, et al. *Pure Appl. Chem.*, **2022**, *94*, 353–534. [**https://doi.org/10.1515/pac-2018-1010**](https://doi.org/10.1515/pac-2018-1010) \[Web\]
+- "Glossary of terms used in physical organic chemistry (IUPAC Recommendations 2021.)" C.L. Perrin, I. Agranat, et al. *Pure Appl. Chem.*, **2022**, *94*, 353–534. [**https://hdl.handle.net/10.1515/pac-2018-1010**](https://hdl.handle.net/10.1515/pac-2018-1010) \[Web\]
 - **IUPAC Gold Book***. This is a searchable database of chemical terms. Last updated in 2029 and they are still working on incorporating the latest recommendations from 2022, as described above. [**https://goldbook.iupac.org**](https://goldbook.iupac.org) \[Web\].
 
 ### Resources from Me

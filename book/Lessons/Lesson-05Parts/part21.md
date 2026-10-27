@@ -10,7 +10,7 @@ We will explore a literature contribution featuring a solvolysis reaction. Is it
 Prepare for this class meeting by reading the following textbook sections and attampting the suggested problems. As stated before, please read all of chapter 11 over the course of this lesson&hellip; 
 
 **Read** ``Changes in mechanism and transition state structure for solvolysis reactions of ring substituted benzyl chlorides in aqueous solution.''
-P.E. Yeary, J.P. Richard, *J. Phys. Org. Chem.*, **2024**, *37*, e4600. [https://doi.org/10.1002/poc.4600](https://doi.org/10.1002/poc.4600)
+P.E. Yeary, J.P. Richard, *J. Phys. Org. Chem.*, **2024**, *37*, e4600. [https://hdl.handle.net/10.1002/poc.4600](https://hdl.handle.net/10.1002/poc.4600)
 
 **Read** my exploration titled "[**Solvolysis of Benzyl Chloride -- Again**](../Lesson-05/E1-Exploration-1.pdf)" \[PDF\]. This is my own exploration of the paper by Yeary and Richard. 
 

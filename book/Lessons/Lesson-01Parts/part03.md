@@ -72,4 +72,4 @@ There are many similar review resources **by other faculty members** at other un
 
 ### Resources from the Literature
 
-- "Construction by De-construction." G. Bhattacharyya, *J. Chem. Ed.*, **2019**, *96*, 1294-1297. [https://doi.org/10.1021/acs.jchemed.8b00579](https://doi.org/10.1021/acs.jchemed.8b00579) \[Web\] This is a good article **highlighting** how an understanding of **mechanism** can enable students to **predict** the **stereochemistry** of bromination of an alkene in different starting materials (structure affects reactivity! That is what this whole course is about). 
+- "Construction by De-construction." G. Bhattacharyya, *J. Chem. Ed.*, **2019**, *96*, 1294-1297. [https://hdl.handle.net/10.1021/acs.jchemed.8b00579](https://hdl.handle.net/10.1021/acs.jchemed.8b00579) \[Web\] This is a good article **highlighting** how an understanding of **mechanism** can enable students to **predict** the **stereochemistry** of bromination of an alkene in different starting materials (structure affects reactivity! That is what this whole course is about). 

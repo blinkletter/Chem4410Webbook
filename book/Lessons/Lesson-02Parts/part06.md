@@ -58,5 +58,5 @@ The following **resources** may be useful.
 
 There is an unending argument about whether the *pK<sub>a</sub>* of H<sub>2</sub>O is 14 or 15.7; and by the reverse, the *pK<sub>a</sub>* of H<sub>3</sub>O<sup>+</sup> is 0 or -1.7. Consider the following two contributions on the subject.
 
-- "The Bronsted-Lowry acid base concept." G.B. Kauffman, *J. Chem. Ed.*, **1988**, *65*, 28-31, [**https://doi.org/10.1021/ed065p28**](https://doi.org/10.1021/ed065p28) \[Web\]
-- "The *pK<sub>a</sub>* of Water and the Fundamental Laws Describing Solution Equilibria: An Appeal for a Consistent Thermodynamic Pedagogy." T.L. Neils, S. Schaertel, T.P. Silverstein, *Helv. Chim. Acta*, **2024**, *107*, e202400103. [**https://doi.org/10.1002/hlca.202400103**](https://doi.org/10.1002/hlca.202400103) \[Web\]
+- "The Bronsted-Lowry acid base concept." G.B. Kauffman, *J. Chem. Ed.*, **1988**, *65*, 28-31, [**https://hdl.handle.net/10.1021/ed065p28**](https://hdl.handle.net/10.1021/ed065p28) \[Web\]
+- "The *pK<sub>a</sub>* of Water and the Fundamental Laws Describing Solution Equilibria: An Appeal for a Consistent Thermodynamic Pedagogy." T.L. Neils, S. Schaertel, T.P. Silverstein, *Helv. Chim. Acta*, **2024**, *107*, e202400103. [**https://hdl.handle.net/10.1002/hlca.202400103**](https://hdl.handle.net/10.1002/hlca.202400103) \[Web\]

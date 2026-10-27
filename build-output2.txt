@@ -1,0 +1,9 @@
+15:🪄  Linked 1 DOI from doi.org in 20 ms for book/Lessons/Lesson-05Parts/part21.md
+18:🪄  Linked 1 DOI from doi.org in 3.85 ms for book/Lessons/Lesson-05Parts/part23.md
+20:🪄  Linked 2 DOIs from doi.org in 1.45 ms for book/Lessons/Lesson-05Parts/part24.md
+35:🪄  Linked 1 DOI from doi.org in 4.48 ms for book/Lessons/Lesson-01.md
+38:🪄  Linked 1 DOI from doi.org in 963 μs for book/Lessons/Lesson-01Parts/part02.md
+41:🪄  Linked 7 DOIs from doi.org in 16 ms for book/Lessons/Lesson-01Parts/part01.md
+45:🪄  Linked 1 DOI from doi.org in 4.74 ms for book/Lessons/Lesson-01Parts/part03.md
+47:🪄  Linked 1 DOI from doi.org in 1.15 ms for book/Lessons/Lesson-01Parts/assignment0.md
+54:🪄  Linked 2 DOIs from doi.org in 1.28 ms for book/Lessons/Lesson-02Parts/part06.md

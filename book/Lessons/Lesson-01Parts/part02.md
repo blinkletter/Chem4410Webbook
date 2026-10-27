@@ -64,7 +64,7 @@ I wrote this many years ago for my physical organic students. This tutorial outl
 ### From the Literature
 
 - Others have spent lots of ink trying to express molecular orbitals in a simple and clear manner. Here is one example: "Faithful couple: The electron pair." L. Salem, *J. Chem. Ed.*, **1978**, *55*, 344-348
-[https://doi.org/10.1021/ed055p344](https://doi.org/10.1021/ed055p344) \[Web\]
+[https://hdl.handle.net/10.1021/ed055p344](https://hdl.handle.net/10.1021/ed055p344) \[Web\]
 
 
 ### Textbooks for Review

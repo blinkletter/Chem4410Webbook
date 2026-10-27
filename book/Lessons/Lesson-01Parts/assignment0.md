@@ -24,7 +24,7 @@ This section describes the **activity** that you are to perform for the assignme
 
 Physical organic chemists spend a lot of energy arguing that **the field is still relevant**. A recent issue of the *Journal of Organic Chemistry* was devoted to this argument and collected a series of papers in the field.  One of the papers was short enough for this assignment. **Read the following paper**.
 
-> B. Andes Hess, Lidia Smentek; "An Unusual Friedel–Crafts Reaction and Violation of the Markovnikov Rule in the Formation of an Adamantyl Arene." *Journal of Organic Chemistry*, **2025**, *90*, 5546–5549. [https://doi.org/10.1021/acs.joc.5c00215](https://doi.org/10.1021/acs.joc.5c00215) Open Access
+> B. Andes Hess, Lidia Smentek; "An Unusual Friedel–Crafts Reaction and Violation of the Markovnikov Rule in the Formation of an Adamantyl Arene." *Journal of Organic Chemistry*, **2025**, *90*, 5546–5549. [https://hdl.handle.net/10.1021/acs.joc.5c00215](https://hdl.handle.net/10.1021/acs.joc.5c00215) Open Access
 
 
 <hr>

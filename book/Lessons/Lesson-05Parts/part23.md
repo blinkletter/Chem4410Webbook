@@ -24,7 +24,7 @@ In class today, I will present an **example of the assignment** that is due for 
 
 After my **example presentation**, I will then begin to take you through the exploration that was the eventual outcome from that starting point. You will observe that the final document describes a different project. This might happen to you. In my initial literature survey I encountered and became obsessed with the idea of the "**non-classical cation**." I chose to analyze and explore the initial evidence for this rare chemical species as presented by Saul Winstein in 1949.
 
-The paper is: “The Structure of the Bicyclo[2,2,1]2-Heptyl (Norbornyl) Carbonium Ion.” S. Winstein, D.S. Trifan , *J. Am. Chem. Soc.*, **1949**, *71*, 2953. [https://doi.org/10.1021/ja01176a536](https://doi.org/10.1021/ja01176a536)
+The paper is: “The Structure of the Bicyclo[2,2,1]2-Heptyl (Norbornyl) Carbonium Ion.” S. Winstein, D.S. Trifan , *J. Am. Chem. Soc.*, **1949**, *71*, 2953. [https://hdl.handle.net/10.1021/ja01176a536](https://hdl.handle.net/10.1021/ja01176a536)
 
 We will explore the idea of the non-classical cation and the evidence that supports the idea. We will also explore the controversy and why it lasted so long. We will introduce the original 1949 publication that started it all. Take note that the paper we are discussing today in **not a review** paper. Use only the **primary literature** for your exploration. A review paper can help you to **find** a line to a primary contribution, but it should then be **abandoned**.
 

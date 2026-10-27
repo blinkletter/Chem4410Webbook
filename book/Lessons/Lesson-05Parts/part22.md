@@ -55,7 +55,7 @@ The following notebooks we made to create the plots in the exploration and are a
 The below documents were presented in the previous class. I am making them available here for your convenience.
 
 ``Changes in mechanism and transition state structure for solvolysis reactions of ring substituted benzyl chlorides in aqueous solution.''
-P.E. Yeary, J.P. Richard, *J. Phys. Org. Chem.*, **2024**, *37*, e4600. [https://doi.org/10.1002/poc.4600](https://doi.org/10.1002/poc.4600)
+P.E. Yeary, J.P. Richard, *J. Phys. Org. Chem.*, **2024**, *37*, e4600. [https://hdl.handle.net/10.1002/poc.4600](https://hdl.handle.net/10.1002/poc.4600)
 
 "[**Solvolysis of Benzyl Chloride -- Again**](../Lesson-05/E1-Exploration-1.pdf)" \[PDF\].
 
