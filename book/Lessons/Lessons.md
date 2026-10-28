@@ -18,7 +18,7 @@ This lesson has five class meetings. Topics include: a review of Brønsted acid/
 
 Correlating structure with activity is the major central unifying idea in this course. We can measure how structural changes affect a chemical property and use that measurement as a score for those changes. Then we can correlate this score with how the same changes affect another system. Quite often we have a linear relationship showing whether the change has a lesser or greater effect in then other system. We can use these linear relationships to probe transition state structure and investigate reaction mechanisms.
 
-Over six class m,eetings we will explore the following topics: an introduction to the Hammett equation and how it can be used to correlate a set of literature values determined from pK{sub}'a' values with rates or equilibrium contants in otherb systems, scoring systems for steric effects, solvent effects and other changes, how to interpret these LFER results to invesitgate mechanisms, and a quick overview of other methods and strategies for investigating reaction mechanisms. 
+Over six class meetings we will explore the following topics: an introduction to the Hammett equation and how it can be used to correlate a set of literature values determined from pK{sub}'a' values with rates or equilibrium contants in otherb systems, scoring systems for steric effects, solvent effects and other changes, how to interpret these LFER results to invesitgate mechanisms, and a quick overview of other methods and strategies for investigating reaction mechanisms. 
 
 ## [Lesson 4: Isotope Effects](./Lesson-04.md)
 

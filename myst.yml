@@ -112,15 +112,15 @@ project:
         - file: book/Lessons/Links-for-Me.md
 site:
   template: book-theme
-#çmyst build  parts:
-#çmyst build    primary_sidebar_footer: primary-sidebar-footer.md
+  parts:
+    primary_sidebar_footer: primary-sidebar-footer.md
   options:
     style: ./custom.css
     folders: true
     logo_text: 'Chem 4410: Physical Organic Chemistry'
 #    logo: Ouroboros-benzene.svg.png
 #    baseurl: /samplewebbook/
-#    favicon: images/favicon_io/favicon.ico
+    favicon: ./favicon-io/favicon.ico
     # used https://favicon.io/favicon-generator/
 #    hide_authors: true
 #    hide_footer_links: true # Hide the previous/next links in the footer

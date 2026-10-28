@@ -38,7 +38,8 @@ Each lesson includes one or more assignments. **Check the page** for each of the
 4. **[Assignment \#4](Lesson-03Parts/assignment4.md)**
     - In this assignment you will create a **Hammett plot** using a data set and use the result to **support** your hypothesis for the given **reaction mechanism**.
 5. **[Assignment \#5](Lesson-03Parts/assignment5.md)**
-    - You will create an **LFER plot** using a system of your choosing (as permitted by the data) to support your hypothesis for a **reaction mechanism**.
+    - You will express the mechanism and **transition-state structure** in a reaction using a **More O'Ferrall-Jencks** plot. Then you will predict the change in the structure of the transition state when the structure of one of the reactants is changed.
+%    - You will create an **LFER plot** using a system of your choosing (as permitted by the data) to support your hypothesis for a **reaction mechanism**.
 
 <hr>
 
